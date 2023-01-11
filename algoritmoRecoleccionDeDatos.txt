@@ -1,0 +1,18 @@
+Crear lista de participantes:
+ 
+Busco la página -->> la página tiene muchas tablas
+tengo que filtrar el tipo de tabla
+  busco los distintos tipos de tabla 
+  encuentro el tipo de tabla que necesito
+  creo el dataframe de cada tabla (con pandas) ---> queda una columna con nulos(Date of birth)
+  hago una búsqueda más específica para recuperar los datos de esa columna
+  enlisto los datos
+  le enchufo los datos al DataFrame
+  Necesito 2 cosas más para completar estos DF 
+     el país del club   (penúltima columna)
+     el país para el que juegan   (última columna)
+  guardo el dataFrame con los datos completos de todos los equipos que participaron
+
+
+
+
