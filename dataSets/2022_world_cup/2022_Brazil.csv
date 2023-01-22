@@ -1,27 +1,27 @@
-Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin
-Alisson,Brazil,1,GK, (1992-10-02),57,0,Liverpool,England
-Danilo,Brazil,2,DF, (1991-07-15),46,1,Juventus,Italy
-Thiago Silva (captain),Brazil,3,DF, (1984-09-22),109,7,Chelsea,England
-Marquinhos,Brazil,4,DF, (1994-05-14),71,5,Paris Saint-Germain,France
-Casemiro,Brazil,5,MF, (1992-02-23),65,5,Manchester United,England
-Alex Sandro,Brazil,6,DF, (1991-01-26),37,2,Juventus,Italy
-Lucas Paquetá,Brazil,7,MF, (1997-08-27),35,7,West Ham United,England
-Fred,Brazil,8,MF, (1993-03-05),28,0,Manchester United,England
-Richarlison,Brazil,9,FW, (1997-05-10),38,17,Tottenham Hotspur,England
-Neymar,Brazil,10,FW, (1992-02-05),121,75,Paris Saint-Germain,France
-Raphinha,Brazil,11,FW, (1996-12-14),11,5,Barcelona,Spain
-Weverton,Brazil,12,GK, (1987-12-13),8,0,Palmeiras,Brazil
-Dani Alves,Brazil,13,DF, (1983-05-06),124,8,UNAM,Mexico
-Éder Militão,Brazil,14,DF, (1998-01-18),23,1,Real Madrid,Spain
-Fabinho,Brazil,15,MF, (1993-10-23),28,0,Liverpool,England
-Alex Telles,Brazil,16,DF, (1992-12-15),8,0,Sevilla,Spain
-Bruno Guimarães,Brazil,17,MF, (1997-11-16),8,1,Newcastle United,England
-Gabriel Jesus,Brazil,18,FW, (1997-04-03),56,19,Arsenal,England
-Antony,Brazil,19,FW, (2000-02-24),11,2,Manchester United,England
-Vinícius Júnior,Brazil,20,FW, (2000-07-12),16,1,Real Madrid,Spain
-Rodrygo,Brazil,21,FW, (2001-01-09),7,1,Real Madrid,Spain
-Éverton Ribeiro,Brazil,22,MF, (1989-04-10),21,3,Flamengo,Brazil
-Ederson,Brazil,23,GK, (1993-08-17),18,0,Manchester City,England
-Bremer,Brazil,24,DF, (1997-03-18),1,0,Juventus,Italy
-Pedro,Brazil,25,FW, (1997-06-20),2,1,Flamengo,Brazil
-Gabriel Martinelli,Brazil,26,FW, (2001-06-18),3,0,Arsenal,England
+Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin,World Cup start date
+Alisson,Brazil,1,GK, (1992-10-02),57,0,Liverpool,England,2022-11-20
+Danilo,Brazil,2,DF, (1991-07-15),46,1,Juventus,Italy,2022-11-20
+Thiago Silva (captain),Brazil,3,DF, (1984-09-22),109,7,Chelsea,England,2022-11-20
+Marquinhos,Brazil,4,DF, (1994-05-14),71,5,Paris Saint-Germain,France,2022-11-20
+Casemiro,Brazil,5,MF, (1992-02-23),65,5,Manchester United,England,2022-11-20
+Alex Sandro,Brazil,6,DF, (1991-01-26),37,2,Juventus,Italy,2022-11-20
+Lucas Paquetá,Brazil,7,MF, (1997-08-27),35,7,West Ham United,England,2022-11-20
+Fred,Brazil,8,MF, (1993-03-05),28,0,Manchester United,England,2022-11-20
+Richarlison,Brazil,9,FW, (1997-05-10),38,17,Tottenham Hotspur,England,2022-11-20
+Neymar,Brazil,10,FW, (1992-02-05),121,75,Paris Saint-Germain,France,2022-11-20
+Raphinha,Brazil,11,FW, (1996-12-14),11,5,Barcelona,Spain,2022-11-20
+Weverton,Brazil,12,GK, (1987-12-13),8,0,Palmeiras,Brazil,2022-11-20
+Dani Alves,Brazil,13,DF, (1983-05-06),124,8,UNAM,Mexico,2022-11-20
+Éder Militão,Brazil,14,DF, (1998-01-18),23,1,Real Madrid,Spain,2022-11-20
+Fabinho,Brazil,15,MF, (1993-10-23),28,0,Liverpool,England,2022-11-20
+Alex Telles,Brazil,16,DF, (1992-12-15),8,0,Sevilla,Spain,2022-11-20
+Bruno Guimarães,Brazil,17,MF, (1997-11-16),8,1,Newcastle United,England,2022-11-20
+Gabriel Jesus,Brazil,18,FW, (1997-04-03),56,19,Arsenal,England,2022-11-20
+Antony,Brazil,19,FW, (2000-02-24),11,2,Manchester United,England,2022-11-20
+Vinícius Júnior,Brazil,20,FW, (2000-07-12),16,1,Real Madrid,Spain,2022-11-20
+Rodrygo,Brazil,21,FW, (2001-01-09),7,1,Real Madrid,Spain,2022-11-20
+Éverton Ribeiro,Brazil,22,MF, (1989-04-10),21,3,Flamengo,Brazil,2022-11-20
+Ederson,Brazil,23,GK, (1993-08-17),18,0,Manchester City,England,2022-11-20
+Bremer,Brazil,24,DF, (1997-03-18),1,0,Juventus,Italy,2022-11-20
+Pedro,Brazil,25,FW, (1997-06-20),2,1,Flamengo,Brazil,2022-11-20
+Gabriel Martinelli,Brazil,26,FW, (2001-06-18),3,0,Arsenal,England,2022-11-20

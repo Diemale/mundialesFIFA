@@ -1,27 +1,27 @@
-Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin
-Jordan Pickford,England,1,GK, (1994-03-07),45,0,Everton,England
-Kyle Walker,England,2,DF, (1990-05-28),70,0,Manchester City,England
-Luke Shaw,England,3,DF, (1995-07-12),23,3,Manchester United,England
-Declan Rice,England,4,MF, (1999-01-14),34,2,West Ham United,England
-John Stones,England,5,DF, (1994-05-28),59,3,Manchester City,England
-Harry Maguire,England,6,DF, (1993-03-05),48,7,Manchester United,England
-Jack Grealish,England,7,FW, (1995-09-10),24,1,Manchester City,England
-Jordan Henderson,England,8,MF, (1990-06-17),70,2,Liverpool,England
-Harry Kane (captain),England,9,FW, (1993-07-28),75,51,Tottenham Hotspur,England
-Raheem Sterling,England,10,FW, (1994-12-08),79,19,Chelsea,England
-Marcus Rashford,England,11,FW, (1997-10-31),46,12,Manchester United,England
-Kieran Trippier,England,12,DF, (1990-09-19),37,1,Newcastle United,England
-Nick Pope,England,13,GK, (1992-04-19),10,0,Newcastle United,England
-Kalvin Phillips,England,14,MF, (1995-12-02),23,0,Manchester City,England
-Eric Dier,England,15,DF, (1994-01-15),47,3,Tottenham Hotspur,England
-Conor Coady,England,16,DF, (1993-02-25),10,1,Everton,England
-Bukayo Saka,England,17,FW, (2001-09-05),20,4,Arsenal,England
-Trent Alexander-Arnold,England,18,DF, (1998-10-07),17,1,Liverpool,England
-Mason Mount,England,19,MF, (1999-01-10),32,5,Chelsea,England
-Phil Foden,England,20,MF, (2000-05-28),18,2,Manchester City,England
-Ben White,England,21,DF, (1997-10-08),4,0,Arsenal,England
-Jude Bellingham,England,22,MF, (2003-06-29),17,0,Borussia Dortmund,Germany
-Aaron Ramsdale,England,23,GK, (1998-05-14),3,0,Arsenal,England
-Callum Wilson,England,24,FW, (1992-02-27),4,1,Newcastle United,England
-James Maddison,England,25,MF, (1996-11-23),1,0,Leicester City,England
-Conor Gallagher,England,26,MF, (2000-02-06),4,0,Chelsea,England
+Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin,World Cup start date
+Jordan Pickford,England,1,GK, (1994-03-07),45,0,Everton,England,2022-11-20
+Kyle Walker,England,2,DF, (1990-05-28),70,0,Manchester City,England,2022-11-20
+Luke Shaw,England,3,DF, (1995-07-12),23,3,Manchester United,England,2022-11-20
+Declan Rice,England,4,MF, (1999-01-14),34,2,West Ham United,England,2022-11-20
+John Stones,England,5,DF, (1994-05-28),59,3,Manchester City,England,2022-11-20
+Harry Maguire,England,6,DF, (1993-03-05),48,7,Manchester United,England,2022-11-20
+Jack Grealish,England,7,FW, (1995-09-10),24,1,Manchester City,England,2022-11-20
+Jordan Henderson,England,8,MF, (1990-06-17),70,2,Liverpool,England,2022-11-20
+Harry Kane (captain),England,9,FW, (1993-07-28),75,51,Tottenham Hotspur,England,2022-11-20
+Raheem Sterling,England,10,FW, (1994-12-08),79,19,Chelsea,England,2022-11-20
+Marcus Rashford,England,11,FW, (1997-10-31),46,12,Manchester United,England,2022-11-20
+Kieran Trippier,England,12,DF, (1990-09-19),37,1,Newcastle United,England,2022-11-20
+Nick Pope,England,13,GK, (1992-04-19),10,0,Newcastle United,England,2022-11-20
+Kalvin Phillips,England,14,MF, (1995-12-02),23,0,Manchester City,England,2022-11-20
+Eric Dier,England,15,DF, (1994-01-15),47,3,Tottenham Hotspur,England,2022-11-20
+Conor Coady,England,16,DF, (1993-02-25),10,1,Everton,England,2022-11-20
+Bukayo Saka,England,17,FW, (2001-09-05),20,4,Arsenal,England,2022-11-20
+Trent Alexander-Arnold,England,18,DF, (1998-10-07),17,1,Liverpool,England,2022-11-20
+Mason Mount,England,19,MF, (1999-01-10),32,5,Chelsea,England,2022-11-20
+Phil Foden,England,20,MF, (2000-05-28),18,2,Manchester City,England,2022-11-20
+Ben White,England,21,DF, (1997-10-08),4,0,Arsenal,England,2022-11-20
+Jude Bellingham,England,22,MF, (2003-06-29),17,0,Borussia Dortmund,Germany,2022-11-20
+Aaron Ramsdale,England,23,GK, (1998-05-14),3,0,Arsenal,England,2022-11-20
+Callum Wilson,England,24,FW, (1992-02-27),4,1,Newcastle United,England,2022-11-20
+James Maddison,England,25,MF, (1996-11-23),1,0,Leicester City,England,2022-11-20
+Conor Gallagher,England,26,MF, (2000-02-06),4,0,Chelsea,England,2022-11-20

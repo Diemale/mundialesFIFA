@@ -1,24 +1,24 @@
-Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin
-Robin Olsen,Sweden,1,GK, (1990-01-08),18,0,Copenhagen,Denmark
-Mikael Lustig,Sweden,2,DF, (1986-12-13),66,6,Celtic,Scotland
-Victor Lindelöf,Sweden,3,DF, (1994-07-17),21,1,Manchester United,England
-Andreas Granqvist (captain),Sweden,4,DF, (1985-04-16),72,6,Krasnodar,Russia
-Martin Olsson,Sweden,5,DF, (1988-05-17),43,5,Swansea City,Wales
-Ludwig Augustinsson,Sweden,6,DF, (1994-04-21),15,0,Werder Bremen,Germany
-Sebastian Larsson,Sweden,7,MF, (1985-06-06),100,6,Hull City,England
-Albin Ekdal,Sweden,8,MF, (1989-07-28),34,0,Hamburger SV,Germany
-Marcus Berg,Sweden,9,FW, (1986-08-17),57,18,Al Ain,United Arab Emirates
-Emil Forsberg,Sweden,10,MF, (1991-10-23),36,6,RB Leipzig,Germany
-John Guidetti,Sweden,11,FW, (1992-04-15),20,1,Alavés,Spain
-Karl-Johan Johnsson,Sweden,12,GK, (1990-01-28),5,0,Guingamp,France
-Gustav Svensson,Sweden,13,MF, (1987-02-07),13,0,Seattle Sounders FC,United States
-Filip Helander,Sweden,14,DF, (1993-04-22),4,0,Bologna,Italy
-Oscar Hiljemark,Sweden,15,MF, (1992-06-28),22,2,Genoa,Italy
-Emil Krafth,Sweden,16,DF, (1994-08-02),13,0,Bologna,Italy
-Viktor Claesson,Sweden,17,MF, (1992-01-02),22,3,Krasnodar,Russia
-Pontus Jansson,Sweden,18,DF, (1991-02-13),15,0,Leeds United,England
-Marcus Rohdén,Sweden,19,MF, (1991-05-11),12,1,Crotone,Italy
-Ola Toivonen,Sweden,20,FW, (1986-07-03),59,13,Toulouse,France
-Jimmy Durmaz,Sweden,21,MF, (1989-03-22),45,3,Toulouse,France
-Isaac Kiese Thelin,Sweden,22,FW, (1992-06-24),20,2,Waasland-Beveren,Belgium
-Kristoffer Nordfeldt,Sweden,23,GK, (1989-06-23),8,0,Swansea City,Wales
+Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin,World Cup start date
+Robin Olsen,Sweden,1,GK, (1990-01-08),18,0,Copenhagen,Denmark,2018-06-14
+Mikael Lustig,Sweden,2,DF, (1986-12-13),66,6,Celtic,Scotland,2018-06-14
+Victor Lindelöf,Sweden,3,DF, (1994-07-17),21,1,Manchester United,England,2018-06-14
+Andreas Granqvist (captain),Sweden,4,DF, (1985-04-16),72,6,Krasnodar,Russia,2018-06-14
+Martin Olsson,Sweden,5,DF, (1988-05-17),43,5,Swansea City,Wales,2018-06-14
+Ludwig Augustinsson,Sweden,6,DF, (1994-04-21),15,0,Werder Bremen,Germany,2018-06-14
+Sebastian Larsson,Sweden,7,MF, (1985-06-06),100,6,Hull City,England,2018-06-14
+Albin Ekdal,Sweden,8,MF, (1989-07-28),34,0,Hamburger SV,Germany,2018-06-14
+Marcus Berg,Sweden,9,FW, (1986-08-17),57,18,Al Ain,United Arab Emirates,2018-06-14
+Emil Forsberg,Sweden,10,MF, (1991-10-23),36,6,RB Leipzig,Germany,2018-06-14
+John Guidetti,Sweden,11,FW, (1992-04-15),20,1,Alavés,Spain,2018-06-14
+Karl-Johan Johnsson,Sweden,12,GK, (1990-01-28),5,0,Guingamp,France,2018-06-14
+Gustav Svensson,Sweden,13,MF, (1987-02-07),13,0,Seattle Sounders FC,United States,2018-06-14
+Filip Helander,Sweden,14,DF, (1993-04-22),4,0,Bologna,Italy,2018-06-14
+Oscar Hiljemark,Sweden,15,MF, (1992-06-28),22,2,Genoa,Italy,2018-06-14
+Emil Krafth,Sweden,16,DF, (1994-08-02),13,0,Bologna,Italy,2018-06-14
+Viktor Claesson,Sweden,17,MF, (1992-01-02),22,3,Krasnodar,Russia,2018-06-14
+Pontus Jansson,Sweden,18,DF, (1991-02-13),15,0,Leeds United,England,2018-06-14
+Marcus Rohdén,Sweden,19,MF, (1991-05-11),12,1,Crotone,Italy,2018-06-14
+Ola Toivonen,Sweden,20,FW, (1986-07-03),59,13,Toulouse,France,2018-06-14
+Jimmy Durmaz,Sweden,21,MF, (1989-03-22),45,3,Toulouse,France,2018-06-14
+Isaac Kiese Thelin,Sweden,22,FW, (1992-06-24),20,2,Waasland-Beveren,Belgium,2018-06-14
+Kristoffer Nordfeldt,Sweden,23,GK, (1989-06-23),8,0,Swansea City,Wales,2018-06-14

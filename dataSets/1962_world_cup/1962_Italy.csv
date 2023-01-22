@@ -1,23 +1,23 @@
-Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin
-Lorenzo Buffon (captain),Italy,1,GK, (1929-12-19),13,,Internazionale,Italy
-Giacomo Losi,Italy,2,DF, (1935-11-09),9,,Roma,Italy
-Luigi Radice,Italy,3,DF, (1935-01-15),2,,Milan,Italy
-Sandro Salvadore,Italy,4,DF, (1939-11-29),5,,Milan,Italy
-Cesare Maldini,Italy,5,DF, (1932-02-05),6,,Milan,Italy
-Giovanni Trapattoni,Italy,6,MF, (1939-03-17),7,,Milan,Italy
-Bruno Mora,Italy,7,FW, (1937-03-29),9,,Juventus,Italy
-Humberto Maschio,Italy,8,FW, (1933-02-20),1,,Atalanta,Italy
-José Altafini,Italy,9,FW, (1938-07-24),4,,Milan,Italy
-Omar Sívori,Italy,10,FW, (1935-10-02),7,,Juventus,Italy
-Giampaolo Menichelli,Italy,11,FW, (1938-06-29),2,,Roma,Italy
-Carlo Mattrel,Italy,12,GK, (1937-04-14),1,,Palermo,Italy
-Enrico Albertosi,Italy,13,GK, (1939-11-02),1,,Fiorentina,Italy
-Gianni Rivera,Italy,14,MF, (1943-08-18),1,,Milan,Italy
-Angelo Sormani,Italy,15,FW, (1939-07-03),0,,Mantova,Italy
-Enzo Robotti,Italy,16,DF, (1935-06-13),6,,Fiorentina,Italy
-Ezio Pascutti,Italy,17,FW, (1937-06-01),1,,Bologna,Italy
-Mario David,Italy,18,DF, (1934-01-03),2,,Milan,Italy
-Francesco Janich,Italy,19,DF, (1937-03-27),0,,Bologna,Italy
-Paride Tumburus,Italy,20,DF, (1939-03-08),0,,Bologna,Italy
-Giorgio Ferrini,Italy,21,MF, (1939-08-18),1,,Torino,Italy
-Giacomo Bulgarelli,Italy,22,MF, (1940-10-24),0,,Bologna,Italy
+Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin,World Cup start date
+Lorenzo Buffon (captain),Italy,1,GK, (1929-12-19),13,,Internazionale,Italy,1962-05-30
+Giacomo Losi,Italy,2,DF, (1935-11-09),9,,Roma,Italy,1962-05-30
+Luigi Radice,Italy,3,DF, (1935-01-15),2,,Milan,Italy,1962-05-30
+Sandro Salvadore,Italy,4,DF, (1939-11-29),5,,Milan,Italy,1962-05-30
+Cesare Maldini,Italy,5,DF, (1932-02-05),6,,Milan,Italy,1962-05-30
+Giovanni Trapattoni,Italy,6,MF, (1939-03-17),7,,Milan,Italy,1962-05-30
+Bruno Mora,Italy,7,FW, (1937-03-29),9,,Juventus,Italy,1962-05-30
+Humberto Maschio,Italy,8,FW, (1933-02-20),1,,Atalanta,Italy,1962-05-30
+José Altafini,Italy,9,FW, (1938-07-24),4,,Milan,Italy,1962-05-30
+Omar Sívori,Italy,10,FW, (1935-10-02),7,,Juventus,Italy,1962-05-30
+Giampaolo Menichelli,Italy,11,FW, (1938-06-29),2,,Roma,Italy,1962-05-30
+Carlo Mattrel,Italy,12,GK, (1937-04-14),1,,Palermo,Italy,1962-05-30
+Enrico Albertosi,Italy,13,GK, (1939-11-02),1,,Fiorentina,Italy,1962-05-30
+Gianni Rivera,Italy,14,MF, (1943-08-18),1,,Milan,Italy,1962-05-30
+Angelo Sormani,Italy,15,FW, (1939-07-03),0,,Mantova,Italy,1962-05-30
+Enzo Robotti,Italy,16,DF, (1935-06-13),6,,Fiorentina,Italy,1962-05-30
+Ezio Pascutti,Italy,17,FW, (1937-06-01),1,,Bologna,Italy,1962-05-30
+Mario David,Italy,18,DF, (1934-01-03),2,,Milan,Italy,1962-05-30
+Francesco Janich,Italy,19,DF, (1937-03-27),0,,Bologna,Italy,1962-05-30
+Paride Tumburus,Italy,20,DF, (1939-03-08),0,,Bologna,Italy,1962-05-30
+Giorgio Ferrini,Italy,21,MF, (1939-08-18),1,,Torino,Italy,1962-05-30
+Giacomo Bulgarelli,Italy,22,MF, (1940-10-24),0,,Bologna,Italy,1962-05-30

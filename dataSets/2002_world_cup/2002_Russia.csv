@@ -1,24 +1,24 @@
-Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin
-Ruslan Nigmatullin,Russia,1,GK, (1974-10-07),20,,Hellas Verona,Italy
-Yuri Kovtun,Russia,2,DF, (1970-01-05),44,,Spartak Moscow,Russia
-Yuri Nikiforov,Russia,3,DF, (1970-09-16),56,,PSV Eindhoven,Netherlands
-Alexey Smertin,Russia,4,MF, (1975-05-01),25,,Bordeaux,France
-Andrei Solomatin,Russia,5,DF, (1975-09-09),5,,CSKA Moscow,Russia
-Igor Semshov,Russia,6,MF, (1978-04-06),2,,Torpedo Moscow,Russia
-Viktor Onopko (c),Russia,7,DF, (1969-10-14),97,,Oviedo,Spain
-Valeri Karpin,Russia,8,MF, (1969-02-02),69,,Celta Vigo,Spain
-Yegor Titov,Russia,9,MF, (1976-05-29),30,,Spartak Moscow,Russia
-Aleksandr Mostovoi,Russia,10,MF, (1968-08-22),59,,Celta Vigo,Spain
-Vladimir Beschastnykh,Russia,11,FW, (1974-04-01),64,,Spartak Moscow,Russia
-Stanislav Cherchesov,Russia,12,GK, (1963-09-02),49,,Tirol Innsbruck,Austria
-Vyacheslav Dayev,Russia,13,DF, (1972-09-06),7,,CSKA Moscow,Russia
-Igor Chugainov,Russia,14,DF, (1970-04-06),30,,Uralan Elista,Russia
-Dmitri Alenichev,Russia,15,MF, (1972-10-20),43,,Porto,Portugal
-Aleksandr Kerzhakov,Russia,16,FW, (1982-11-27),3,,Zenit Saint Petersburg,Russia
-Sergei Semak,Russia,17,MF, (1976-02-27),31,,CSKA Moscow,Russia
-Dmitri Sennikov,Russia,18,DF, (1976-06-24),4,,Lokomotiv Moscow,Russia
-Ruslan Pimenov,Russia,19,FW, (1981-11-25),1,,Lokomotiv Moscow,Russia
-Marat Izmailov,Russia,20,MF, (1982-09-21),8,,Lokomotiv Moscow,Russia
-Dmitri Khokhlov,Russia,21,MF, (1975-12-22),39,,Real Sociedad,Spain
-Dmitri Sychev,Russia,22,FW, (1983-10-26),3,,Spartak Moscow,Russia
-Aleksandr Filimonov,Russia,23,GK, (1973-10-15),16,,Uralan Elista,Russia
+Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin,World Cup start date
+Ruslan Nigmatullin,Russia,1,GK, (1974-10-07),20,,Hellas Verona,Italy,2002-05-31
+Yuri Kovtun,Russia,2,DF, (1970-01-05),44,,Spartak Moscow,Russia,2002-05-31
+Yuri Nikiforov,Russia,3,DF, (1970-09-16),56,,PSV Eindhoven,Netherlands,2002-05-31
+Alexey Smertin,Russia,4,MF, (1975-05-01),25,,Bordeaux,France,2002-05-31
+Andrei Solomatin,Russia,5,DF, (1975-09-09),5,,CSKA Moscow,Russia,2002-05-31
+Igor Semshov,Russia,6,MF, (1978-04-06),2,,Torpedo Moscow,Russia,2002-05-31
+Viktor Onopko (c),Russia,7,DF, (1969-10-14),97,,Oviedo,Spain,2002-05-31
+Valeri Karpin,Russia,8,MF, (1969-02-02),69,,Celta Vigo,Spain,2002-05-31
+Yegor Titov,Russia,9,MF, (1976-05-29),30,,Spartak Moscow,Russia,2002-05-31
+Aleksandr Mostovoi,Russia,10,MF, (1968-08-22),59,,Celta Vigo,Spain,2002-05-31
+Vladimir Beschastnykh,Russia,11,FW, (1974-04-01),64,,Spartak Moscow,Russia,2002-05-31
+Stanislav Cherchesov,Russia,12,GK, (1963-09-02),49,,Tirol Innsbruck,Austria,2002-05-31
+Vyacheslav Dayev,Russia,13,DF, (1972-09-06),7,,CSKA Moscow,Russia,2002-05-31
+Igor Chugainov,Russia,14,DF, (1970-04-06),30,,Uralan Elista,Russia,2002-05-31
+Dmitri Alenichev,Russia,15,MF, (1972-10-20),43,,Porto,Portugal,2002-05-31
+Aleksandr Kerzhakov,Russia,16,FW, (1982-11-27),3,,Zenit Saint Petersburg,Russia,2002-05-31
+Sergei Semak,Russia,17,MF, (1976-02-27),31,,CSKA Moscow,Russia,2002-05-31
+Dmitri Sennikov,Russia,18,DF, (1976-06-24),4,,Lokomotiv Moscow,Russia,2002-05-31
+Ruslan Pimenov,Russia,19,FW, (1981-11-25),1,,Lokomotiv Moscow,Russia,2002-05-31
+Marat Izmailov,Russia,20,MF, (1982-09-21),8,,Lokomotiv Moscow,Russia,2002-05-31
+Dmitri Khokhlov,Russia,21,MF, (1975-12-22),39,,Real Sociedad,Spain,2002-05-31
+Dmitri Sychev,Russia,22,FW, (1983-10-26),3,,Spartak Moscow,Russia,2002-05-31
+Aleksandr Filimonov,Russia,23,GK, (1973-10-15),16,,Uralan Elista,Russia,2002-05-31

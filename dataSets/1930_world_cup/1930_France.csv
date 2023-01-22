@@ -1,17 +1,17 @@
-Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin
-Numa Andoire,France,,DF, (1908-03-19),0,,Olympique Antibes,France
-Marcel Capelle,France,,DF, (1904-12-11),4,,Racing Club de France,France
-Augustin Chantrel,France,,MF, (1906-11-11),8,,CASG Paris,France
-Edmond Delfour,France,,MF, (1907-11-01),6,,Racing Club de France,France
-Célestin Delmer,France,,MF, (1907-02-15),2,,Amiens AC,France
-Marcel Langiller,France,,FW, (1908-06-02),8,,Excelsior AC Roubaix,France
-Jean Laurent,France,,DF, (1906-12-30),3,,FC Sochaux,France
-Lucien Laurent,France,,FW, (1907-12-10),2,,FC Sochaux,France
-Ernest Libérati,France,,FW, (1906-03-22),3,,Amiens AC,France
-André Maschinot,France,,FW, (1903-06-28),3,,FC Sochaux,France
-Étienne Mattler,France,,DF, (1905-12-25),1,,FC Sochaux,France
-Marcel Pinel,France,,FW, (1908-07-08),3,,Red Star Paris,France
-André Tassin,France,,GK, (1902-12-24),0,,Racing Club de France,France
-Alex Thépot,France,,GK, (1906-07-30),12,,Red Star Paris,France
-Émile Veinante,France,,FW, (1907-06-12),3,,Racing Club de France,France
-Alexandre Villaplane (c),France,,MF, (1904-12-24),22,,Racing Club de France,France
+Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin,World Cup start date
+Numa Andoire,France,,DF, (1908-03-19),0,,Olympique Antibes,France,1930-07-17
+Marcel Capelle,France,,DF, (1904-12-11),4,,Racing Club de France,France,1930-07-17
+Augustin Chantrel,France,,MF, (1906-11-11),8,,CASG Paris,France,1930-07-17
+Edmond Delfour,France,,MF, (1907-11-01),6,,Racing Club de France,France,1930-07-17
+Célestin Delmer,France,,MF, (1907-02-15),2,,Amiens AC,France,1930-07-17
+Marcel Langiller,France,,FW, (1908-06-02),8,,Excelsior AC Roubaix,France,1930-07-17
+Jean Laurent,France,,DF, (1906-12-30),3,,FC Sochaux,France,1930-07-17
+Lucien Laurent,France,,FW, (1907-12-10),2,,FC Sochaux,France,1930-07-17
+Ernest Libérati,France,,FW, (1906-03-22),3,,Amiens AC,France,1930-07-17
+André Maschinot,France,,FW, (1903-06-28),3,,FC Sochaux,France,1930-07-17
+Étienne Mattler,France,,DF, (1905-12-25),1,,FC Sochaux,France,1930-07-17
+Marcel Pinel,France,,FW, (1908-07-08),3,,Red Star Paris,France,1930-07-17
+André Tassin,France,,GK, (1902-12-24),0,,Racing Club de France,France,1930-07-17
+Alex Thépot,France,,GK, (1906-07-30),12,,Red Star Paris,France,1930-07-17
+Émile Veinante,France,,FW, (1907-06-12),3,,Racing Club de France,France,1930-07-17
+Alexandre Villaplane (c),France,,MF, (1904-12-24),22,,Racing Club de France,France,1930-07-17

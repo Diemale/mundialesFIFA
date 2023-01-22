@@ -1,24 +1,24 @@
-Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin
-Ikechukwu Ezenwa,Nigeria,1,GK, (1988-10-16),24,0,Enyimba,Nigeria
-Brian Idowu,Nigeria,2,DF, (1992-05-18),5,1,Amkar Perm,Russia
-Elderson Echiéjilé,Nigeria,3,DF, (1988-01-20),62,3,Cercle Brugge,Belgium
-Wilfred Ndidi,Nigeria,4,MF, (1996-12-16),17,0,Leicester City,England
-William Troost-Ekong,Nigeria,5,DF, (1993-09-01),22,1,Bursaspor,Turkey
-Leon Balogun,Nigeria,6,DF, (1988-06-28),19,0,Mainz 05,Germany
-Ahmed Musa,Nigeria,7,FW, (1992-10-14),72,13,CSKA Moscow,Russia
-Peter Etebo,Nigeria,8,MF, (1995-11-09),14,1,Las Palmas,Spain
-Odion Ighalo,Nigeria,9,FW, (1989-06-16),19,4,Changchun Yatai,China
-John Obi Mikel (captain),Nigeria,10,MF, (1987-04-22),85,6,Tianjin TEDA,China
-Victor Moses,Nigeria,11,FW, (1990-12-12),34,11,Chelsea,England
-Shehu Abdullahi,Nigeria,12,DF, (1993-03-12),25,0,Bursaspor,Turkey
-Simeon Nwankwo,Nigeria,13,FW, (1992-05-07),2,0,Crotone,Italy
-Kelechi Iheanacho,Nigeria,14,FW, (1996-03-10),18,8,Leicester City,England
-Joel Obi,Nigeria,15,MF, (1991-05-22),17,0,Torino,Italy
-Daniel Akpeyi,Nigeria,16,GK, (1986-03-08),7,0,Chippa United,South Africa
-Ogenyi Onazi,Nigeria,17,MF, (1992-12-25),52,1,Trabzonspor,Turkey
-Alex Iwobi,Nigeria,18,FW, (1996-05-03),19,5,Arsenal,England
-John Ogu,Nigeria,19,MF, (1988-04-20),20,2,Hapoel Be'er Sheva,Israel
-Chidozie Awaziem,Nigeria,20,DF, (1997-01-01),4,0,Nantes,France
-Tyronne Ebuehi,Nigeria,21,DF, (1995-12-16),7,0,ADO Den Haag,Netherlands
-Kenneth Omeruo,Nigeria,22,DF, (1993-10-17),39,0,Kasımpaşa,Turkey
-Francis Uzoho,Nigeria,23,GK, (1998-10-28),6,0,Deportivo La Coruña,Spain
+Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin,World Cup start date
+Ikechukwu Ezenwa,Nigeria,1,GK, (1988-10-16),24,0,Enyimba,Nigeria,2018-06-14
+Brian Idowu,Nigeria,2,DF, (1992-05-18),5,1,Amkar Perm,Russia,2018-06-14
+Elderson Echiéjilé,Nigeria,3,DF, (1988-01-20),62,3,Cercle Brugge,Belgium,2018-06-14
+Wilfred Ndidi,Nigeria,4,MF, (1996-12-16),17,0,Leicester City,England,2018-06-14
+William Troost-Ekong,Nigeria,5,DF, (1993-09-01),22,1,Bursaspor,Turkey,2018-06-14
+Leon Balogun,Nigeria,6,DF, (1988-06-28),19,0,Mainz 05,Germany,2018-06-14
+Ahmed Musa,Nigeria,7,FW, (1992-10-14),72,13,CSKA Moscow,Russia,2018-06-14
+Peter Etebo,Nigeria,8,MF, (1995-11-09),14,1,Las Palmas,Spain,2018-06-14
+Odion Ighalo,Nigeria,9,FW, (1989-06-16),19,4,Changchun Yatai,China,2018-06-14
+John Obi Mikel (captain),Nigeria,10,MF, (1987-04-22),85,6,Tianjin TEDA,China,2018-06-14
+Victor Moses,Nigeria,11,FW, (1990-12-12),34,11,Chelsea,England,2018-06-14
+Shehu Abdullahi,Nigeria,12,DF, (1993-03-12),25,0,Bursaspor,Turkey,2018-06-14
+Simeon Nwankwo,Nigeria,13,FW, (1992-05-07),2,0,Crotone,Italy,2018-06-14
+Kelechi Iheanacho,Nigeria,14,FW, (1996-03-10),18,8,Leicester City,England,2018-06-14
+Joel Obi,Nigeria,15,MF, (1991-05-22),17,0,Torino,Italy,2018-06-14
+Daniel Akpeyi,Nigeria,16,GK, (1986-03-08),7,0,Chippa United,South Africa,2018-06-14
+Ogenyi Onazi,Nigeria,17,MF, (1992-12-25),52,1,Trabzonspor,Turkey,2018-06-14
+Alex Iwobi,Nigeria,18,FW, (1996-05-03),19,5,Arsenal,England,2018-06-14
+John Ogu,Nigeria,19,MF, (1988-04-20),20,2,Hapoel Be'er Sheva,Israel,2018-06-14
+Chidozie Awaziem,Nigeria,20,DF, (1997-01-01),4,0,Nantes,France,2018-06-14
+Tyronne Ebuehi,Nigeria,21,DF, (1995-12-16),7,0,ADO Den Haag,Netherlands,2018-06-14
+Kenneth Omeruo,Nigeria,22,DF, (1993-10-17),39,0,Kasımpaşa,Turkey,2018-06-14
+Francis Uzoho,Nigeria,23,GK, (1998-10-28),6,0,Deportivo La Coruña,Spain,2018-06-14

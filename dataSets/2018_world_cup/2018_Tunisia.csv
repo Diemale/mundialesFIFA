@@ -1,24 +1,24 @@
-Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin
-Farouk Ben Mustapha,Tunisia,1,GK, (1989-07-01),15,0,Al Shabab,Saudi Arabia
-Syam Ben Youssef,Tunisia,2,DF, (1989-03-31),42,1,Kasımpaşa,Turkey
-Yohan Benalouane,Tunisia,3,DF, (1987-03-28),4,0,Leicester City,England
-Yassine Meriah,Tunisia,4,DF, (1993-07-02),16,1,CS Sfaxien,Tunisia
-Oussama Haddadi,Tunisia,5,DF, (1992-01-28),9,0,Dijon,France
-Rami Bedoui,Tunisia,6,DF, (1990-01-19),8,0,Étoile du Sahel,Tunisia
-Saîf-Eddine Khaoui,Tunisia,7,FW, (1995-04-27),5,0,Troyes,France
-Fakhreddine Ben Youssef,Tunisia,8,FW, (1991-06-23),39,5,Al-Ettifaq,Saudi Arabia
-Anice Badri,Tunisia,9,MF, (1990-09-18),7,2,Espérance de Tunis,Tunisia
-Wahbi Khazri,Tunisia,10,FW, (1991-02-08),35,12,Rennes,France
-Dylan Bronn,Tunisia,11,DF, (1995-06-19),5,0,Gent,Belgium
-Ali Maâloul,Tunisia,12,DF, (1990-01-01),46,0,Al Ahly,Egypt
-Ferjani Sassi,Tunisia,13,MF, (1992-03-18),39,3,Al Nassr,Saudi Arabia
-Mohamed Amine Ben Amor,Tunisia,14,MF, (1992-05-03),26,1,Al Ahli,Saudi Arabia
-Ahmed Khalil,Tunisia,15,FW, (1994-12-21),3,0,Club Africain,Tunisia
-Aymen Mathlouthi (captain),Tunisia,16,GK, (1984-09-14),70,0,Al Batin,Saudi Arabia
-Ellyes Skhiri,Tunisia,17,MF, (1995-05-10),5,0,Montpellier,France
-Bassem Srarfi,Tunisia,18,FW, (1997-06-25),5,0,Nice,France
-Saber Khalifa,Tunisia,19,FW, (1986-10-14),44,7,Club Africain,Tunisia
-Ghailene Chaalali,Tunisia,20,FW, (1994-02-28),6,1,Espérance de Tunis,Tunisia
-Hamdi Nagguez,Tunisia,21,DF, (1992-10-28),15,0,Zamalek,Egypt
-Mouez Hassen,Tunisia,22,GK, (1995-03-05),3,0,Châteauroux,France
-Naïm Sliti,Tunisia,23,FW, (1992-07-27),17,3,Dijon,France
+Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin,World Cup start date
+Farouk Ben Mustapha,Tunisia,1,GK, (1989-07-01),15,0,Al Shabab,Saudi Arabia,2018-06-14
+Syam Ben Youssef,Tunisia,2,DF, (1989-03-31),42,1,Kasımpaşa,Turkey,2018-06-14
+Yohan Benalouane,Tunisia,3,DF, (1987-03-28),4,0,Leicester City,England,2018-06-14
+Yassine Meriah,Tunisia,4,DF, (1993-07-02),16,1,CS Sfaxien,Tunisia,2018-06-14
+Oussama Haddadi,Tunisia,5,DF, (1992-01-28),9,0,Dijon,France,2018-06-14
+Rami Bedoui,Tunisia,6,DF, (1990-01-19),8,0,Étoile du Sahel,Tunisia,2018-06-14
+Saîf-Eddine Khaoui,Tunisia,7,FW, (1995-04-27),5,0,Troyes,France,2018-06-14
+Fakhreddine Ben Youssef,Tunisia,8,FW, (1991-06-23),39,5,Al-Ettifaq,Saudi Arabia,2018-06-14
+Anice Badri,Tunisia,9,MF, (1990-09-18),7,2,Espérance de Tunis,Tunisia,2018-06-14
+Wahbi Khazri,Tunisia,10,FW, (1991-02-08),35,12,Rennes,France,2018-06-14
+Dylan Bronn,Tunisia,11,DF, (1995-06-19),5,0,Gent,Belgium,2018-06-14
+Ali Maâloul,Tunisia,12,DF, (1990-01-01),46,0,Al Ahly,Egypt,2018-06-14
+Ferjani Sassi,Tunisia,13,MF, (1992-03-18),39,3,Al Nassr,Saudi Arabia,2018-06-14
+Mohamed Amine Ben Amor,Tunisia,14,MF, (1992-05-03),26,1,Al Ahli,Saudi Arabia,2018-06-14
+Ahmed Khalil,Tunisia,15,FW, (1994-12-21),3,0,Club Africain,Tunisia,2018-06-14
+Aymen Mathlouthi (captain),Tunisia,16,GK, (1984-09-14),70,0,Al Batin,Saudi Arabia,2018-06-14
+Ellyes Skhiri,Tunisia,17,MF, (1995-05-10),5,0,Montpellier,France,2018-06-14
+Bassem Srarfi,Tunisia,18,FW, (1997-06-25),5,0,Nice,France,2018-06-14
+Saber Khalifa,Tunisia,19,FW, (1986-10-14),44,7,Club Africain,Tunisia,2018-06-14
+Ghailene Chaalali,Tunisia,20,FW, (1994-02-28),6,1,Espérance de Tunis,Tunisia,2018-06-14
+Hamdi Nagguez,Tunisia,21,DF, (1992-10-28),15,0,Zamalek,Egypt,2018-06-14
+Mouez Hassen,Tunisia,22,GK, (1995-03-05),3,0,Châteauroux,France,2018-06-14
+Naïm Sliti,Tunisia,23,FW, (1992-07-27),17,3,Dijon,France,2018-06-14

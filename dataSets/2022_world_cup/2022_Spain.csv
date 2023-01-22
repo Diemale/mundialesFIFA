@@ -1,27 +1,27 @@
-Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin
-Robert Sánchez,Spain,1,GK, (1997-11-18),2,0,Brighton & Hove Albion,England
-César Azpilicueta,Spain,2,DF, (1989-08-28),42,1,Chelsea,England
-Eric García,Spain,3,DF, (2001-01-09),19,0,Barcelona,Spain
-Pau Torres,Spain,4,DF, (1997-01-16),22,1,Villarreal,Spain
-Sergio Busquets (captain),Spain,5,MF, (1988-07-16),139,2,Barcelona,Spain
-Marcos Llorente,Spain,6,MF, (1995-01-30),17,0,Atlético Madrid,Spain
-Álvaro Morata,Spain,7,FW, (1992-10-23),57,27,Atlético Madrid,Spain
-Koke,Spain,8,MF, (1992-01-08),68,0,Atlético Madrid,Spain
-Gavi,Spain,9,MF, (2004-08-05),13,2,Barcelona,Spain
-Marco Asensio,Spain,10,FW, (1996-01-21),31,1,Real Madrid,Spain
-Ferran Torres,Spain,11,FW, (2000-02-29),31,13,Barcelona,Spain
-Nico Williams,Spain,12,FW, (2002-07-12),3,1,Athletic Bilbao,Spain
-David Raya,Spain,13,GK, (1995-09-15),2,0,Brentford,England
-Alejandro Balde,Spain,14,DF, (2003-10-18),0,0,Barcelona,Spain
-Hugo Guillamón,Spain,15,DF, (2000-01-31),3,1,Valencia,Spain
-Rodri,Spain,16,MF, (1996-06-22),35,1,Manchester City,England
-Yeremy Pino,Spain,17,FW, (2002-10-20),7,1,Villarreal,Spain
-Jordi Alba,Spain,18,DF, (1989-03-21),87,9,Barcelona,Spain
-Carlos Soler,Spain,19,MF, (1997-01-02),12,3,Paris Saint-Germain,France
-Dani Carvajal,Spain,20,DF, (1992-01-11),31,0,Real Madrid,Spain
-Dani Olmo,Spain,21,FW, (1998-05-07),25,4,RB Leipzig,Germany
-Pablo Sarabia,Spain,22,FW, (1992-05-11),25,9,Paris Saint-Germain,France
-Unai Simón,Spain,23,GK, (1997-06-11),27,0,Athletic Bilbao,Spain
-Aymeric Laporte,Spain,24,DF, (1994-05-27),16,1,Manchester City,England
-Ansu Fati,Spain,25,FW, (2002-10-31),5,2,Barcelona,Spain
-Pedri,Spain,26,MF, (2002-11-25),14,0,Barcelona,Spain
+Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin,World Cup start date
+Robert Sánchez,Spain,1,GK, (1997-11-18),2,0,Brighton & Hove Albion,England,2022-11-20
+César Azpilicueta,Spain,2,DF, (1989-08-28),42,1,Chelsea,England,2022-11-20
+Eric García,Spain,3,DF, (2001-01-09),19,0,Barcelona,Spain,2022-11-20
+Pau Torres,Spain,4,DF, (1997-01-16),22,1,Villarreal,Spain,2022-11-20
+Sergio Busquets (captain),Spain,5,MF, (1988-07-16),139,2,Barcelona,Spain,2022-11-20
+Marcos Llorente,Spain,6,MF, (1995-01-30),17,0,Atlético Madrid,Spain,2022-11-20
+Álvaro Morata,Spain,7,FW, (1992-10-23),57,27,Atlético Madrid,Spain,2022-11-20
+Koke,Spain,8,MF, (1992-01-08),68,0,Atlético Madrid,Spain,2022-11-20
+Gavi,Spain,9,MF, (2004-08-05),13,2,Barcelona,Spain,2022-11-20
+Marco Asensio,Spain,10,FW, (1996-01-21),31,1,Real Madrid,Spain,2022-11-20
+Ferran Torres,Spain,11,FW, (2000-02-29),31,13,Barcelona,Spain,2022-11-20
+Nico Williams,Spain,12,FW, (2002-07-12),3,1,Athletic Bilbao,Spain,2022-11-20
+David Raya,Spain,13,GK, (1995-09-15),2,0,Brentford,England,2022-11-20
+Alejandro Balde,Spain,14,DF, (2003-10-18),0,0,Barcelona,Spain,2022-11-20
+Hugo Guillamón,Spain,15,DF, (2000-01-31),3,1,Valencia,Spain,2022-11-20
+Rodri,Spain,16,MF, (1996-06-22),35,1,Manchester City,England,2022-11-20
+Yeremy Pino,Spain,17,FW, (2002-10-20),7,1,Villarreal,Spain,2022-11-20
+Jordi Alba,Spain,18,DF, (1989-03-21),87,9,Barcelona,Spain,2022-11-20
+Carlos Soler,Spain,19,MF, (1997-01-02),12,3,Paris Saint-Germain,France,2022-11-20
+Dani Carvajal,Spain,20,DF, (1992-01-11),31,0,Real Madrid,Spain,2022-11-20
+Dani Olmo,Spain,21,FW, (1998-05-07),25,4,RB Leipzig,Germany,2022-11-20
+Pablo Sarabia,Spain,22,FW, (1992-05-11),25,9,Paris Saint-Germain,France,2022-11-20
+Unai Simón,Spain,23,GK, (1997-06-11),27,0,Athletic Bilbao,Spain,2022-11-20
+Aymeric Laporte,Spain,24,DF, (1994-05-27),16,1,Manchester City,England,2022-11-20
+Ansu Fati,Spain,25,FW, (2002-10-31),5,2,Barcelona,Spain,2022-11-20
+Pedri,Spain,26,MF, (2002-11-25),14,0,Barcelona,Spain,2022-11-20

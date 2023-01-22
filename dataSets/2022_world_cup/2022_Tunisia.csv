@@ -1,27 +1,27 @@
-Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin
-Aymen Mathlouthi,Tunisia,1,GK, (1984-09-14),73,0,Étoile du Sahel,Tunisia
-Bilel Ifa,Tunisia,2,DF, (1990-03-09),37,0,Kuwait SC,Kuwait
-Montassar Talbi,Tunisia,3,DF, (1998-05-26),23,1,Lorient,France
-Yassine Meriah,Tunisia,4,DF, (1993-07-02),61,3,Espérance de Tunis,Tunisia
-Nader Ghandri,Tunisia,5,MF, (1995-02-18),8,0,Club Africain,Tunisia
-Dylan Bronn,Tunisia,6,DF, (1995-06-19),36,2,Salernitana,Italy
-Youssef Msakni (captain),Tunisia,7,FW, (1990-10-28),88,17,Al-Arabi,Qatar
-Hannibal Mejbri,Tunisia,8,MF, (2003-01-21),19,0,Birmingham City,England
-Issam Jebali,Tunisia,9,FW, (1991-12-25),10,2,OB,Denmark
-Wahbi Khazri,Tunisia,10,FW, (1991-02-08),72,24,Montpellier,France
-Taha Yassine Khenissi,Tunisia,11,FW, (1992-01-06),48,9,Kuwait SC,Kuwait
-Ali Maâloul,Tunisia,12,DF, (1990-01-01),83,2,Al Ahly,Egypt
-Ferjani Sassi,Tunisia,13,MF, (1992-03-18),78,6,Al-Duhail,Qatar
-Aïssa Laïdouni,Tunisia,14,MF, (1996-12-13),25,1,Ferencváros,Hungary
-Mohamed Ali Ben Romdhane,Tunisia,15,MF, (1999-09-06),23,1,Espérance de Tunis,Tunisia
-Aymen Dahmen,Tunisia,16,GK, (1997-01-28),5,0,CS Sfaxien,Tunisia
-Ellyes Skhiri,Tunisia,17,MF, (1995-05-10),49,3,1. FC Köln,Germany
-Ghailene Chaalali,Tunisia,18,MF, (1994-02-28),31,1,Espérance de Tunis,Tunisia
-Seifeddine Jaziri,Tunisia,19,FW, (1993-02-12),29,10,Zamalek,Egypt
-Mohamed Dräger,Tunisia,20,DF, (1996-06-25),34,3,Luzern,Switzerland
-Wajdi Kechrida,Tunisia,21,DF, (1995-11-05),19,0,Atromitos,Greece
-Bechir Ben Saïd,Tunisia,22,GK, (1992-11-29),10,0,US Monastir,Tunisia
-Naïm Sliti,Tunisia,23,FW, (1992-07-27),69,14,Al-Ettifaq,Saudi Arabia
-Ali Abdi,Tunisia,24,DF, (1993-12-20),10,2,Caen,France
-Anis Ben Slimane,Tunisia,25,FW, (2001-03-16),25,4,Brøndby,Denmark
-Mouez Hassen,Tunisia,26,GK, (1995-03-05),20,0,Club Africain,Tunisia
+Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin,World Cup start date
+Aymen Mathlouthi,Tunisia,1,GK, (1984-09-14),73,0,Étoile du Sahel,Tunisia,2022-11-20
+Bilel Ifa,Tunisia,2,DF, (1990-03-09),37,0,Kuwait SC,Kuwait,2022-11-20
+Montassar Talbi,Tunisia,3,DF, (1998-05-26),23,1,Lorient,France,2022-11-20
+Yassine Meriah,Tunisia,4,DF, (1993-07-02),61,3,Espérance de Tunis,Tunisia,2022-11-20
+Nader Ghandri,Tunisia,5,MF, (1995-02-18),8,0,Club Africain,Tunisia,2022-11-20
+Dylan Bronn,Tunisia,6,DF, (1995-06-19),36,2,Salernitana,Italy,2022-11-20
+Youssef Msakni (captain),Tunisia,7,FW, (1990-10-28),88,17,Al-Arabi,Qatar,2022-11-20
+Hannibal Mejbri,Tunisia,8,MF, (2003-01-21),19,0,Birmingham City,England,2022-11-20
+Issam Jebali,Tunisia,9,FW, (1991-12-25),10,2,OB,Denmark,2022-11-20
+Wahbi Khazri,Tunisia,10,FW, (1991-02-08),72,24,Montpellier,France,2022-11-20
+Taha Yassine Khenissi,Tunisia,11,FW, (1992-01-06),48,9,Kuwait SC,Kuwait,2022-11-20
+Ali Maâloul,Tunisia,12,DF, (1990-01-01),83,2,Al Ahly,Egypt,2022-11-20
+Ferjani Sassi,Tunisia,13,MF, (1992-03-18),78,6,Al-Duhail,Qatar,2022-11-20
+Aïssa Laïdouni,Tunisia,14,MF, (1996-12-13),25,1,Ferencváros,Hungary,2022-11-20
+Mohamed Ali Ben Romdhane,Tunisia,15,MF, (1999-09-06),23,1,Espérance de Tunis,Tunisia,2022-11-20
+Aymen Dahmen,Tunisia,16,GK, (1997-01-28),5,0,CS Sfaxien,Tunisia,2022-11-20
+Ellyes Skhiri,Tunisia,17,MF, (1995-05-10),49,3,1. FC Köln,Germany,2022-11-20
+Ghailene Chaalali,Tunisia,18,MF, (1994-02-28),31,1,Espérance de Tunis,Tunisia,2022-11-20
+Seifeddine Jaziri,Tunisia,19,FW, (1993-02-12),29,10,Zamalek,Egypt,2022-11-20
+Mohamed Dräger,Tunisia,20,DF, (1996-06-25),34,3,Luzern,Switzerland,2022-11-20
+Wajdi Kechrida,Tunisia,21,DF, (1995-11-05),19,0,Atromitos,Greece,2022-11-20
+Bechir Ben Saïd,Tunisia,22,GK, (1992-11-29),10,0,US Monastir,Tunisia,2022-11-20
+Naïm Sliti,Tunisia,23,FW, (1992-07-27),69,14,Al-Ettifaq,Saudi Arabia,2022-11-20
+Ali Abdi,Tunisia,24,DF, (1993-12-20),10,2,Caen,France,2022-11-20
+Anis Ben Slimane,Tunisia,25,FW, (2001-03-16),25,4,Brøndby,Denmark,2022-11-20
+Mouez Hassen,Tunisia,26,GK, (1995-03-05),20,0,Club Africain,Tunisia,2022-11-20

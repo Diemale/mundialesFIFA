@@ -1,24 +1,24 @@
-Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin
-Abdullah Al-Mayouf (captain),Saudi Arabia,1,GK, (1987-01-23),11,0,Al Hilal,Saudi Arabia
-Mansoor Al-Harbi,Saudi Arabia,2,DF, (1987-10-19),40,1,Al Ahli,Saudi Arabia
-Osama Hawsawi,Saudi Arabia,3,DF, (1984-03-31),135,7,Al Hilal,Saudi Arabia
-Ali Al-Bulaihi,Saudi Arabia,4,DF, (1989-11-21),4,0,Al Hilal,Saudi Arabia
-Omar Hawsawi,Saudi Arabia,5,DF, (1985-09-27),42,3,Al Nassr,Saudi Arabia
-Mohammed Al-Breik,Saudi Arabia,6,DF, (1992-09-15),11,1,Al Hilal,Saudi Arabia
-Salman Al-Faraj,Saudi Arabia,7,MF, (1989-08-01),43,3,Al Hilal,Saudi Arabia
-Yahya Al-Shehri,Saudi Arabia,8,MF, (1990-06-26),57,8,Leganés,Spain
-Hattan Bahebri,Saudi Arabia,9,MF, (1992-07-16),5,0,Al Shabab,Saudi Arabia
-Mohammad Al-Sahlawi,Saudi Arabia,10,FW, (1987-01-10),40,28,Al Nassr,Saudi Arabia
-Abdulmalek Al-Khaibri,Saudi Arabia,11,MF, (1986-03-13),36,0,Al Hilal,Saudi Arabia
-Mohamed Kanno,Saudi Arabia,12,MF, (1994-09-22),6,1,Al Hilal,Saudi Arabia
-Yasser Al-Shahrani,Saudi Arabia,13,DF, (1992-05-25),37,0,Al Hilal,Saudi Arabia
-Abdullah Otayf,Saudi Arabia,14,MF, (1992-08-03),16,1,Al Hilal,Saudi Arabia
-Abdullah Al-Khaibari,Saudi Arabia,15,MF, (1996-08-16),5,0,Al Shabab,Saudi Arabia
-Housain Al-Mogahwi,Saudi Arabia,16,MF, (1988-03-24),18,1,Al Ahli,Saudi Arabia
-Taisir Al-Jassim,Saudi Arabia,17,MF, (1984-07-25),132,19,Al Ahli,Saudi Arabia
-Salem Al-Dawsari,Saudi Arabia,18,MF, (1991-08-19),33,4,Villarreal,Spain
-Fahad Al-Muwallad,Saudi Arabia,19,FW, (1994-09-14),45,10,Levante,Spain
-Muhannad Assiri,Saudi Arabia,20,FW, (1986-10-14),18,4,Al Ahli,Saudi Arabia
-Yasser Al-Mosailem,Saudi Arabia,21,GK, (1984-02-27),32,0,Al Ahli,Saudi Arabia
-Mohammed Al-Owais,Saudi Arabia,22,GK, (1991-10-10),6,0,Al Ahli,Saudi Arabia
-Motaz Hawsawi,Saudi Arabia,23,DF, (1992-02-17),17,0,Al Ahli,Saudi Arabia
+Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin,World Cup start date
+Abdullah Al-Mayouf (captain),Saudi Arabia,1,GK, (1987-01-23),11,0,Al Hilal,Saudi Arabia,2018-06-14
+Mansoor Al-Harbi,Saudi Arabia,2,DF, (1987-10-19),40,1,Al Ahli,Saudi Arabia,2018-06-14
+Osama Hawsawi,Saudi Arabia,3,DF, (1984-03-31),135,7,Al Hilal,Saudi Arabia,2018-06-14
+Ali Al-Bulaihi,Saudi Arabia,4,DF, (1989-11-21),4,0,Al Hilal,Saudi Arabia,2018-06-14
+Omar Hawsawi,Saudi Arabia,5,DF, (1985-09-27),42,3,Al Nassr,Saudi Arabia,2018-06-14
+Mohammed Al-Breik,Saudi Arabia,6,DF, (1992-09-15),11,1,Al Hilal,Saudi Arabia,2018-06-14
+Salman Al-Faraj,Saudi Arabia,7,MF, (1989-08-01),43,3,Al Hilal,Saudi Arabia,2018-06-14
+Yahya Al-Shehri,Saudi Arabia,8,MF, (1990-06-26),57,8,Leganés,Spain,2018-06-14
+Hattan Bahebri,Saudi Arabia,9,MF, (1992-07-16),5,0,Al Shabab,Saudi Arabia,2018-06-14
+Mohammad Al-Sahlawi,Saudi Arabia,10,FW, (1987-01-10),40,28,Al Nassr,Saudi Arabia,2018-06-14
+Abdulmalek Al-Khaibri,Saudi Arabia,11,MF, (1986-03-13),36,0,Al Hilal,Saudi Arabia,2018-06-14
+Mohamed Kanno,Saudi Arabia,12,MF, (1994-09-22),6,1,Al Hilal,Saudi Arabia,2018-06-14
+Yasser Al-Shahrani,Saudi Arabia,13,DF, (1992-05-25),37,0,Al Hilal,Saudi Arabia,2018-06-14
+Abdullah Otayf,Saudi Arabia,14,MF, (1992-08-03),16,1,Al Hilal,Saudi Arabia,2018-06-14
+Abdullah Al-Khaibari,Saudi Arabia,15,MF, (1996-08-16),5,0,Al Shabab,Saudi Arabia,2018-06-14
+Housain Al-Mogahwi,Saudi Arabia,16,MF, (1988-03-24),18,1,Al Ahli,Saudi Arabia,2018-06-14
+Taisir Al-Jassim,Saudi Arabia,17,MF, (1984-07-25),132,19,Al Ahli,Saudi Arabia,2018-06-14
+Salem Al-Dawsari,Saudi Arabia,18,MF, (1991-08-19),33,4,Villarreal,Spain,2018-06-14
+Fahad Al-Muwallad,Saudi Arabia,19,FW, (1994-09-14),45,10,Levante,Spain,2018-06-14
+Muhannad Assiri,Saudi Arabia,20,FW, (1986-10-14),18,4,Al Ahli,Saudi Arabia,2018-06-14
+Yasser Al-Mosailem,Saudi Arabia,21,GK, (1984-02-27),32,0,Al Ahli,Saudi Arabia,2018-06-14
+Mohammed Al-Owais,Saudi Arabia,22,GK, (1991-10-10),6,0,Al Ahli,Saudi Arabia,2018-06-14
+Motaz Hawsawi,Saudi Arabia,23,DF, (1992-02-17),17,0,Al Ahli,Saudi Arabia,2018-06-14

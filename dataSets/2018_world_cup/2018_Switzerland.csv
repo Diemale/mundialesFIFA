@@ -1,24 +1,24 @@
-Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin
-Yann Sommer,Switzerland,1,GK, (1988-12-17),35,0,Borussia Mönchengladbach,Germany
-Stephan Lichtsteiner (captain),Switzerland,2,DF, (1984-01-16),100,8,Juventus,Italy
-François Moubandje,Switzerland,3,DF, (1990-06-21),18,0,Toulouse,France
-Nico Elvedi,Switzerland,4,DF, (1996-09-30),6,0,Borussia Mönchengladbach,Germany
-Manuel Akanji,Switzerland,5,DF, (1995-07-19),7,0,Borussia Dortmund,Germany
-Michael Lang,Switzerland,6,DF, (1991-02-08),24,2,Basel,Switzerland
-Breel Embolo,Switzerland,7,FW, (1997-02-14),25,3,Schalke 04,Germany
-Remo Freuler,Switzerland,8,MF, (1992-04-15),10,0,Atalanta,Italy
-Haris Seferovic,Switzerland,9,FW, (1992-02-22),51,12,Benfica,Portugal
-Granit Xhaka,Switzerland,10,MF, (1992-09-27),62,9,Arsenal,England
-Valon Behrami,Switzerland,11,MF, (1985-04-19),79,2,Udinese,Italy
-Yvon Mvogo,Switzerland,12,GK, (1994-06-06),0,0,RB Leipzig,Germany
-Ricardo Rodríguez,Switzerland,13,DF, (1992-08-25),53,5,Milan,Italy
-Steven Zuber,Switzerland,14,MF, (1991-08-17),12,3,1899 Hoffenheim,Germany
-Blerim Džemaili,Switzerland,15,MF, (1986-04-12),65,9,Bologna,Italy
-Gelson Fernandes,Switzerland,16,MF, (1986-09-02),67,2,Eintracht Frankfurt,Germany
-Denis Zakaria,Switzerland,17,MF, (1996-11-20),10,0,Borussia Mönchengladbach,Germany
-Mario Gavranović,Switzerland,18,FW, (1989-11-24),14,5,Dinamo Zagreb,Croatia
-Josip Drmić,Switzerland,19,FW, (1992-08-08),29,9,Borussia Mönchengladbach,Germany
-Johan Djourou,Switzerland,20,DF, (1987-01-18),74,2,Antalyaspor,Turkey
-Roman Bürki,Switzerland,21,GK, (1990-11-14),9,0,Borussia Dortmund,Germany
-Fabian Schär,Switzerland,22,DF, (1991-12-20),39,7,Deportivo La Coruña,Spain
-Xherdan Shaqiri,Switzerland,23,MF, (1991-10-10),70,20,Stoke City,England
+Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin,World Cup start date
+Yann Sommer,Switzerland,1,GK, (1988-12-17),35,0,Borussia Mönchengladbach,Germany,2018-06-14
+Stephan Lichtsteiner (captain),Switzerland,2,DF, (1984-01-16),100,8,Juventus,Italy,2018-06-14
+François Moubandje,Switzerland,3,DF, (1990-06-21),18,0,Toulouse,France,2018-06-14
+Nico Elvedi,Switzerland,4,DF, (1996-09-30),6,0,Borussia Mönchengladbach,Germany,2018-06-14
+Manuel Akanji,Switzerland,5,DF, (1995-07-19),7,0,Borussia Dortmund,Germany,2018-06-14
+Michael Lang,Switzerland,6,DF, (1991-02-08),24,2,Basel,Switzerland,2018-06-14
+Breel Embolo,Switzerland,7,FW, (1997-02-14),25,3,Schalke 04,Germany,2018-06-14
+Remo Freuler,Switzerland,8,MF, (1992-04-15),10,0,Atalanta,Italy,2018-06-14
+Haris Seferovic,Switzerland,9,FW, (1992-02-22),51,12,Benfica,Portugal,2018-06-14
+Granit Xhaka,Switzerland,10,MF, (1992-09-27),62,9,Arsenal,England,2018-06-14
+Valon Behrami,Switzerland,11,MF, (1985-04-19),79,2,Udinese,Italy,2018-06-14
+Yvon Mvogo,Switzerland,12,GK, (1994-06-06),0,0,RB Leipzig,Germany,2018-06-14
+Ricardo Rodríguez,Switzerland,13,DF, (1992-08-25),53,5,Milan,Italy,2018-06-14
+Steven Zuber,Switzerland,14,MF, (1991-08-17),12,3,1899 Hoffenheim,Germany,2018-06-14
+Blerim Džemaili,Switzerland,15,MF, (1986-04-12),65,9,Bologna,Italy,2018-06-14
+Gelson Fernandes,Switzerland,16,MF, (1986-09-02),67,2,Eintracht Frankfurt,Germany,2018-06-14
+Denis Zakaria,Switzerland,17,MF, (1996-11-20),10,0,Borussia Mönchengladbach,Germany,2018-06-14
+Mario Gavranović,Switzerland,18,FW, (1989-11-24),14,5,Dinamo Zagreb,Croatia,2018-06-14
+Josip Drmić,Switzerland,19,FW, (1992-08-08),29,9,Borussia Mönchengladbach,Germany,2018-06-14
+Johan Djourou,Switzerland,20,DF, (1987-01-18),74,2,Antalyaspor,Turkey,2018-06-14
+Roman Bürki,Switzerland,21,GK, (1990-11-14),9,0,Borussia Dortmund,Germany,2018-06-14
+Fabian Schär,Switzerland,22,DF, (1991-12-20),39,7,Deportivo La Coruña,Spain,2018-06-14
+Xherdan Shaqiri,Switzerland,23,MF, (1991-10-10),70,20,Stoke City,England,2018-06-14

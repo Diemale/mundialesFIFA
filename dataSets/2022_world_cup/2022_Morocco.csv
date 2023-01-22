@@ -1,27 +1,27 @@
-Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin
-Yassine Bounou,Morocco,1,GK, (1991-04-05),46,0,Sevilla,Spain
-Achraf Hakimi,Morocco,2,DF, (1998-11-04),54,8,Paris Saint-Germain,France
-Noussair Mazraoui,Morocco,3,DF, (1997-11-14),15,2,Bayern Munich,Germany
-Sofyan Amrabat,Morocco,4,MF, (1996-08-21),39,0,Fiorentina,Italy
-Nayef Aguerd,Morocco,5,DF, (1996-03-30),22,1,West Ham United,England
-Romain Saïss (captain),Morocco,6,DF, (1990-03-26),66,1,Beşiktaş,Turkey
-Hakim Ziyech,Morocco,7,MF, (1993-03-19),43,18,Chelsea,England
-Azzedine Ounahi,Morocco,8,MF, (2000-04-19),10,2,Angers,France
-Abderrazak Hamdallah,Morocco,9,FW, (1990-12-17),18,6,Al-Ittihad,Saudi Arabia
-Anass Zaroury,Morocco,10,MF, (2000-11-07),1,0,Burnley,England
-Abdelhamid Sabiri,Morocco,11,FW, (1996-11-28),2,1,Sampdoria,Italy
-Munir Mohamedi,Morocco,12,GK, (1989-05-10),43,0,Al-Wehda,Saudi Arabia
-Ilias Chair,Morocco,13,MF, (1997-10-30),11,1,Queens Park Rangers,England
-Zakaria Aboukhlal,Morocco,14,MF, (2000-02-18),12,2,Toulouse,France
-Selim Amallah,Morocco,15,MF, (1996-11-15),24,4,Standard Liège,Belgium
-Abde Ezzalzouli,Morocco,16,FW, (2001-12-17),2,0,Osasuna,Spain
-Sofiane Boufal,Morocco,17,MF, (1993-09-17),32,6,Angers,France
-Jawad El Yamiq,Morocco,18,DF, (1992-02-29),12,2,Valladolid,Spain
-Youssef En-Nesyri,Morocco,19,FW, (1997-06-01),50,15,Sevilla,Spain
-Achraf Dari,Morocco,20,DF, (1999-05-06),4,0,Brest,France
-Walid Cheddira,Morocco,21,FW, (1998-01-22),2,0,Bari,Italy
-Ahmed Reda Tagnaouti,Morocco,22,GK, (1996-04-05),3,0,Wydad AC,Morocco
-Bilal El Khannous,Morocco,23,MF, (2004-05-10),0,0,Genk,Belgium
-Badr Benoun,Morocco,24,DF, (1993-09-30),3,0,Qatar SC,Qatar
-Yahia Attiyat Allah,Morocco,25,DF, (1995-03-02),2,0,Wydad AC,Morocco
-Yahya Jabrane,Morocco,26,MF, (1991-06-18),5,0,Wydad AC,Morocco
+Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin,World Cup start date
+Yassine Bounou,Morocco,1,GK, (1991-04-05),46,0,Sevilla,Spain,2022-11-20
+Achraf Hakimi,Morocco,2,DF, (1998-11-04),54,8,Paris Saint-Germain,France,2022-11-20
+Noussair Mazraoui,Morocco,3,DF, (1997-11-14),15,2,Bayern Munich,Germany,2022-11-20
+Sofyan Amrabat,Morocco,4,MF, (1996-08-21),39,0,Fiorentina,Italy,2022-11-20
+Nayef Aguerd,Morocco,5,DF, (1996-03-30),22,1,West Ham United,England,2022-11-20
+Romain Saïss (captain),Morocco,6,DF, (1990-03-26),66,1,Beşiktaş,Turkey,2022-11-20
+Hakim Ziyech,Morocco,7,MF, (1993-03-19),43,18,Chelsea,England,2022-11-20
+Azzedine Ounahi,Morocco,8,MF, (2000-04-19),10,2,Angers,France,2022-11-20
+Abderrazak Hamdallah,Morocco,9,FW, (1990-12-17),18,6,Al-Ittihad,Saudi Arabia,2022-11-20
+Anass Zaroury,Morocco,10,MF, (2000-11-07),1,0,Burnley,England,2022-11-20
+Abdelhamid Sabiri,Morocco,11,FW, (1996-11-28),2,1,Sampdoria,Italy,2022-11-20
+Munir Mohamedi,Morocco,12,GK, (1989-05-10),43,0,Al-Wehda,Saudi Arabia,2022-11-20
+Ilias Chair,Morocco,13,MF, (1997-10-30),11,1,Queens Park Rangers,England,2022-11-20
+Zakaria Aboukhlal,Morocco,14,MF, (2000-02-18),12,2,Toulouse,France,2022-11-20
+Selim Amallah,Morocco,15,MF, (1996-11-15),24,4,Standard Liège,Belgium,2022-11-20
+Abde Ezzalzouli,Morocco,16,FW, (2001-12-17),2,0,Osasuna,Spain,2022-11-20
+Sofiane Boufal,Morocco,17,MF, (1993-09-17),32,6,Angers,France,2022-11-20
+Jawad El Yamiq,Morocco,18,DF, (1992-02-29),12,2,Valladolid,Spain,2022-11-20
+Youssef En-Nesyri,Morocco,19,FW, (1997-06-01),50,15,Sevilla,Spain,2022-11-20
+Achraf Dari,Morocco,20,DF, (1999-05-06),4,0,Brest,France,2022-11-20
+Walid Cheddira,Morocco,21,FW, (1998-01-22),2,0,Bari,Italy,2022-11-20
+Ahmed Reda Tagnaouti,Morocco,22,GK, (1996-04-05),3,0,Wydad AC,Morocco,2022-11-20
+Bilal El Khannous,Morocco,23,MF, (2004-05-10),0,0,Genk,Belgium,2022-11-20
+Badr Benoun,Morocco,24,DF, (1993-09-30),3,0,Qatar SC,Qatar,2022-11-20
+Yahia Attiyat Allah,Morocco,25,DF, (1995-03-02),2,0,Wydad AC,Morocco,2022-11-20
+Yahya Jabrane,Morocco,26,MF, (1991-06-18),5,0,Wydad AC,Morocco,2022-11-20

@@ -1,24 +1,24 @@
-Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin
-Diego Pozo,Argentina,1,GK, (1978-02-16),3,,Colón,Argentina
-Martín Demichelis,Argentina,2,DF, (1980-12-20),25,,Bayern Munich,Germany
-Clemente Rodríguez,Argentina,3,DF, (1981-07-31),12,,Estudiantes,Argentina
-Nicolás Burdisso,Argentina,4,DF, (1981-04-12),29,,Roma,Italy
-Mario Bolatti,Argentina,5,MF, (1985-02-17),5,,Fiorentina,Italy
-Gabriel Heinze,Argentina,6,DF, (1978-04-19),64,,Marseille,France
-Ángel Di María,Argentina,7,MF, (1988-02-14),8,,Benfica,Portugal
-Juan Sebastián Verón,Argentina,8,MF, (1975-03-09),70,,Estudiantes,Argentina
-Gonzalo Higuaín,Argentina,9,FW, (1987-12-10),5,,Real Madrid,Spain
-Lionel Messi,Argentina,10,FW, (1987-06-24),45,,Barcelona,Spain
-Carlos Tevez,Argentina,11,FW, (1984-02-05),54,,Manchester City,England
-Ariel Garcé,Argentina,12,DF, (1979-07-14),4,,Colón,Argentina
-Walter Samuel,Argentina,13,DF, (1978-03-23),54,,Inter Milan,Italy
-Javier Mascherano (c),Argentina,14,MF, (1984-06-08),57,,Liverpool,England
-Nicolás Otamendi,Argentina,15,DF, (1988-02-12),7,,Vélez Sársfield,Argentina
-Sergio Agüero,Argentina,16,FW, (1988-06-02),22,,Atlético Madrid,Spain
-Jonás Gutiérrez,Argentina,17,MF, (1983-07-05),16,,Newcastle United,England
-Martín Palermo,Argentina,18,FW, (1973-11-07),14,,Boca Juniors,Argentina
-Diego Milito,Argentina,19,FW, (1979-06-12),21,,Inter Milan,Italy
-Maxi Rodríguez,Argentina,20,MF, (1981-01-02),36,,Liverpool,England
-Mariano Andújar,Argentina,21,GK, (1983-07-30),4,,Catania,Italy
-Sergio Romero,Argentina,22,GK, (1987-02-22),6,,AZ,Netherlands
-Javier Pastore,Argentina,23,MF, (1989-06-20),1,,Palermo,Italy
+Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin,World Cup start date
+Diego Pozo,Argentina,1,GK, (1978-02-16),3,,Colón,Argentina,2010-06-11
+Martín Demichelis,Argentina,2,DF, (1980-12-20),25,,Bayern Munich,Germany,2010-06-11
+Clemente Rodríguez,Argentina,3,DF, (1981-07-31),12,,Estudiantes,Argentina,2010-06-11
+Nicolás Burdisso,Argentina,4,DF, (1981-04-12),29,,Roma,Italy,2010-06-11
+Mario Bolatti,Argentina,5,MF, (1985-02-17),5,,Fiorentina,Italy,2010-06-11
+Gabriel Heinze,Argentina,6,DF, (1978-04-19),64,,Marseille,France,2010-06-11
+Ángel Di María,Argentina,7,MF, (1988-02-14),8,,Benfica,Portugal,2010-06-11
+Juan Sebastián Verón,Argentina,8,MF, (1975-03-09),70,,Estudiantes,Argentina,2010-06-11
+Gonzalo Higuaín,Argentina,9,FW, (1987-12-10),5,,Real Madrid,Spain,2010-06-11
+Lionel Messi,Argentina,10,FW, (1987-06-24),45,,Barcelona,Spain,2010-06-11
+Carlos Tevez,Argentina,11,FW, (1984-02-05),54,,Manchester City,England,2010-06-11
+Ariel Garcé,Argentina,12,DF, (1979-07-14),4,,Colón,Argentina,2010-06-11
+Walter Samuel,Argentina,13,DF, (1978-03-23),54,,Inter Milan,Italy,2010-06-11
+Javier Mascherano (c),Argentina,14,MF, (1984-06-08),57,,Liverpool,England,2010-06-11
+Nicolás Otamendi,Argentina,15,DF, (1988-02-12),7,,Vélez Sársfield,Argentina,2010-06-11
+Sergio Agüero,Argentina,16,FW, (1988-06-02),22,,Atlético Madrid,Spain,2010-06-11
+Jonás Gutiérrez,Argentina,17,MF, (1983-07-05),16,,Newcastle United,England,2010-06-11
+Martín Palermo,Argentina,18,FW, (1973-11-07),14,,Boca Juniors,Argentina,2010-06-11
+Diego Milito,Argentina,19,FW, (1979-06-12),21,,Inter Milan,Italy,2010-06-11
+Maxi Rodríguez,Argentina,20,MF, (1981-01-02),36,,Liverpool,England,2010-06-11
+Mariano Andújar,Argentina,21,GK, (1983-07-30),4,,Catania,Italy,2010-06-11
+Sergio Romero,Argentina,22,GK, (1987-02-22),6,,AZ,Netherlands,2010-06-11
+Javier Pastore,Argentina,23,MF, (1989-06-20),1,,Palermo,Italy,2010-06-11

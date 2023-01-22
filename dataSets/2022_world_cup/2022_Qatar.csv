@@ -1,27 +1,27 @@
-Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin
-Saad Al-Sheeb,Qatar,1,GK, (1990-02-19),76,0,Al-Sadd,Qatar
-Ró-Ró,Qatar,2,DF, (1990-08-06),80,1,Al-Sadd,Qatar
-Abdelkarim Hassan,Qatar,3,MF, (1993-08-28),130,15,Al-Sadd,Qatar
-Mohammed Waad,Qatar,4,DF, (1999-09-18),21,0,Al-Sadd,Qatar
-Tarek Salman,Qatar,5,DF, (1997-12-05),58,0,Al-Sadd,Qatar
-Abdulaziz Hatem,Qatar,6,MF, (1990-01-01),107,11,Al-Rayyan,Qatar
-Ahmed Alaaeldin,Qatar,7,FW, (1993-01-31),47,2,Al-Gharafa,Qatar
-Ali Assadalla,Qatar,8,MF, (1993-01-19),59,12,Al-Sadd,Qatar
-Mohammed Muntari,Qatar,9,FW, (1993-12-20),48,13,Al-Duhail,Qatar
-Hassan Al-Haydos (captain),Qatar,10,MF, (1990-12-11),169,36,Al-Sadd,Qatar
-Akram Afif,Qatar,11,FW, (1996-11-18),89,26,Al-Sadd,Qatar
-Karim Boudiaf,Qatar,12,MF, (1990-09-16),115,6,Al-Duhail,Qatar
-Musab Kheder,Qatar,13,DF, (1993-01-01),30,0,Al-Sadd,Qatar
-Homam Ahmed,Qatar,14,DF, (1999-08-25),29,2,Al-Gharafa,Qatar
-Bassam Al-Rawi,Qatar,15,DF, (1997-12-16),58,2,Al-Duhail,Qatar
-Boualem Khoukhi,Qatar,16,DF, (1990-07-09),105,20,Al-Sadd,Qatar
-Ismaeel Mohammad,Qatar,17,DF, (1990-04-05),70,4,Al-Duhail,Qatar
-Khalid Muneer,Qatar,18,FW, (1998-02-24),2,0,Al-Wakrah,Qatar
-Almoez Ali,Qatar,19,FW, (1996-08-19),85,42,Al-Duhail,Qatar
-Salem Al-Hajri,Qatar,20,MF, (1996-04-10),22,0,Al-Sadd,Qatar
-Yousef Hassan,Qatar,21,GK, (1996-05-24),7,0,Al-Gharafa,Qatar
-Meshaal Barsham,Qatar,22,GK, (1998-02-14),20,0,Al-Sadd,Qatar
-Assim Madibo,Qatar,23,MF, (1996-10-22),43,0,Al-Duhail,Qatar
-Naif Al-Hadhrami,Qatar,24,MF, (2001-07-18),1,0,Al-Rayyan,Qatar
-Jassem Gaber,Qatar,25,MF, (2002-02-20),0,0,Al-Arabi,Qatar
-Mostafa Meshaal,Qatar,26,MF, (2001-03-28),1,0,Al-Sadd,Qatar
+Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin,World Cup start date
+Saad Al-Sheeb,Qatar,1,GK, (1990-02-19),76,0,Al-Sadd,Qatar,2022-11-20
+Ró-Ró,Qatar,2,DF, (1990-08-06),80,1,Al-Sadd,Qatar,2022-11-20
+Abdelkarim Hassan,Qatar,3,MF, (1993-08-28),130,15,Al-Sadd,Qatar,2022-11-20
+Mohammed Waad,Qatar,4,DF, (1999-09-18),21,0,Al-Sadd,Qatar,2022-11-20
+Tarek Salman,Qatar,5,DF, (1997-12-05),58,0,Al-Sadd,Qatar,2022-11-20
+Abdulaziz Hatem,Qatar,6,MF, (1990-01-01),107,11,Al-Rayyan,Qatar,2022-11-20
+Ahmed Alaaeldin,Qatar,7,FW, (1993-01-31),47,2,Al-Gharafa,Qatar,2022-11-20
+Ali Assadalla,Qatar,8,MF, (1993-01-19),59,12,Al-Sadd,Qatar,2022-11-20
+Mohammed Muntari,Qatar,9,FW, (1993-12-20),48,13,Al-Duhail,Qatar,2022-11-20
+Hassan Al-Haydos (captain),Qatar,10,MF, (1990-12-11),169,36,Al-Sadd,Qatar,2022-11-20
+Akram Afif,Qatar,11,FW, (1996-11-18),89,26,Al-Sadd,Qatar,2022-11-20
+Karim Boudiaf,Qatar,12,MF, (1990-09-16),115,6,Al-Duhail,Qatar,2022-11-20
+Musab Kheder,Qatar,13,DF, (1993-01-01),30,0,Al-Sadd,Qatar,2022-11-20
+Homam Ahmed,Qatar,14,DF, (1999-08-25),29,2,Al-Gharafa,Qatar,2022-11-20
+Bassam Al-Rawi,Qatar,15,DF, (1997-12-16),58,2,Al-Duhail,Qatar,2022-11-20
+Boualem Khoukhi,Qatar,16,DF, (1990-07-09),105,20,Al-Sadd,Qatar,2022-11-20
+Ismaeel Mohammad,Qatar,17,DF, (1990-04-05),70,4,Al-Duhail,Qatar,2022-11-20
+Khalid Muneer,Qatar,18,FW, (1998-02-24),2,0,Al-Wakrah,Qatar,2022-11-20
+Almoez Ali,Qatar,19,FW, (1996-08-19),85,42,Al-Duhail,Qatar,2022-11-20
+Salem Al-Hajri,Qatar,20,MF, (1996-04-10),22,0,Al-Sadd,Qatar,2022-11-20
+Yousef Hassan,Qatar,21,GK, (1996-05-24),7,0,Al-Gharafa,Qatar,2022-11-20
+Meshaal Barsham,Qatar,22,GK, (1998-02-14),20,0,Al-Sadd,Qatar,2022-11-20
+Assim Madibo,Qatar,23,MF, (1996-10-22),43,0,Al-Duhail,Qatar,2022-11-20
+Naif Al-Hadhrami,Qatar,24,MF, (2001-07-18),1,0,Al-Rayyan,Qatar,2022-11-20
+Jassem Gaber,Qatar,25,MF, (2002-02-20),0,0,Al-Arabi,Qatar,2022-11-20
+Mostafa Meshaal,Qatar,26,MF, (2001-03-28),1,0,Al-Sadd,Qatar,2022-11-20

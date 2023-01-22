@@ -1,23 +1,23 @@
-Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin
-Lev Yashin,Soviet Union,1,GK, (1929-10-22),42,,Dynamo Moscow,Soviet Union
-Vladimir Maslachenko,Soviet Union,2,GK, (1936-03-05),8,,Lokomotiv Moscow,Soviet Union
-Sergey Kotrikadze,Soviet Union,3,GK, (1936-08-09),0,,Dinamo Tbilisi,Soviet Union
-Eduard Dubinski,Soviet Union,4,DF, (1935-04-06),9,,CSKA Moscow,Soviet Union
-Givi Chokheli,Soviet Union,5,DF, (1937-06-27),16,,Dinamo Tbilisi,Soviet Union
-Leonid Ostrovskiy,Soviet Union,6,DF, (1936-01-17),3,,Torpedo Moscow,Soviet Union
-Anatoli Maslyonkin,Soviet Union,7,DF, (1930-06-26),29,,Spartak Moscow,Soviet Union
-Albert Shesternyov,Soviet Union,8,MF, (1941-06-20),1,,CSKA Moscow,Soviet Union
-Nikolai Manoshin,Soviet Union,9,MF, (1938-03-06),8,,Torpedo Moscow,Soviet Union
-Igor Netto (captain),Soviet Union,10,MF, (1930-01-09),48,,Spartak Moscow,Soviet Union
-Yozhef Sabo,Soviet Union,11,MF, (1940-03-01),0,,Dynamo Kyiv,Soviet Union
-Valery Voronin,Soviet Union,12,DF, (1939-07-17),14,,Torpedo Moscow,Soviet Union
-Gennadi Gusarov,Soviet Union,13,FW, (1937-03-11),5,,Torpedo Moscow,Soviet Union
-Valentin Ivanov,Soviet Union,14,FW, (1934-11-19),39,,Torpedo Moscow,Soviet Union
-Viktor Kanevski,Soviet Union,15,FW, (1936-10-03),3,,Dynamo Kyiv,Soviet Union
-Aleksei Mamykin,Soviet Union,16,FW, (1936-02-29),7,,CSKA Moscow,Soviet Union
-Mikhail Meskhi,Soviet Union,17,FW, (1937-01-12),18,,Dinamo Tbilisi,Soviet Union
-Slava Metreveli,Soviet Union,18,MF, (1936-05-30),19,,Torpedo Moscow,Soviet Union
-Viktor Ponedelnik,Soviet Union,19,FW, (1937-05-22),15,,SKA Rostov,Soviet Union
-Viktor Serebryanikov,Soviet Union,20,FW, (1940-03-29),0,,Dynamo Kyiv,Soviet Union
-Galimzyan Khusainov,Soviet Union,21,MF, (1937-06-27),3,,Spartak Moscow,Soviet Union
-Igor Chislenko,Soviet Union,22,MF, (1939-09-08),5,,Dynamo Moscow,Soviet Union
+Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin,World Cup start date
+Lev Yashin,Soviet Union,1,GK, (1929-10-22),42,,Dynamo Moscow,Soviet Union,1962-05-30
+Vladimir Maslachenko,Soviet Union,2,GK, (1936-03-05),8,,Lokomotiv Moscow,Soviet Union,1962-05-30
+Sergey Kotrikadze,Soviet Union,3,GK, (1936-08-09),0,,Dinamo Tbilisi,Soviet Union,1962-05-30
+Eduard Dubinski,Soviet Union,4,DF, (1935-04-06),9,,CSKA Moscow,Soviet Union,1962-05-30
+Givi Chokheli,Soviet Union,5,DF, (1937-06-27),16,,Dinamo Tbilisi,Soviet Union,1962-05-30
+Leonid Ostrovskiy,Soviet Union,6,DF, (1936-01-17),3,,Torpedo Moscow,Soviet Union,1962-05-30
+Anatoli Maslyonkin,Soviet Union,7,DF, (1930-06-26),29,,Spartak Moscow,Soviet Union,1962-05-30
+Albert Shesternyov,Soviet Union,8,MF, (1941-06-20),1,,CSKA Moscow,Soviet Union,1962-05-30
+Nikolai Manoshin,Soviet Union,9,MF, (1938-03-06),8,,Torpedo Moscow,Soviet Union,1962-05-30
+Igor Netto (captain),Soviet Union,10,MF, (1930-01-09),48,,Spartak Moscow,Soviet Union,1962-05-30
+Yozhef Sabo,Soviet Union,11,MF, (1940-03-01),0,,Dynamo Kyiv,Soviet Union,1962-05-30
+Valery Voronin,Soviet Union,12,DF, (1939-07-17),14,,Torpedo Moscow,Soviet Union,1962-05-30
+Gennadi Gusarov,Soviet Union,13,FW, (1937-03-11),5,,Torpedo Moscow,Soviet Union,1962-05-30
+Valentin Ivanov,Soviet Union,14,FW, (1934-11-19),39,,Torpedo Moscow,Soviet Union,1962-05-30
+Viktor Kanevski,Soviet Union,15,FW, (1936-10-03),3,,Dynamo Kyiv,Soviet Union,1962-05-30
+Aleksei Mamykin,Soviet Union,16,FW, (1936-02-29),7,,CSKA Moscow,Soviet Union,1962-05-30
+Mikhail Meskhi,Soviet Union,17,FW, (1937-01-12),18,,Dinamo Tbilisi,Soviet Union,1962-05-30
+Slava Metreveli,Soviet Union,18,MF, (1936-05-30),19,,Torpedo Moscow,Soviet Union,1962-05-30
+Viktor Ponedelnik,Soviet Union,19,FW, (1937-05-22),15,,SKA Rostov,Soviet Union,1962-05-30
+Viktor Serebryanikov,Soviet Union,20,FW, (1940-03-29),0,,Dynamo Kyiv,Soviet Union,1962-05-30
+Galimzyan Khusainov,Soviet Union,21,MF, (1937-06-27),3,,Spartak Moscow,Soviet Union,1962-05-30
+Igor Chislenko,Soviet Union,22,MF, (1939-09-08),5,,Dynamo Moscow,Soviet Union,1962-05-30

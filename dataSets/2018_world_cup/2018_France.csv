@@ -1,24 +1,24 @@
-Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin
-Hugo Lloris (captain),France,1,GK, (1986-12-26),98,0,Tottenham Hotspur,England
-Benjamin Pavard,France,2,DF, (1996-03-28),6,0,VfB Stuttgart,Germany
-Presnel Kimpembe,France,3,DF, (1995-08-13),2,0,Paris Saint-Germain,France
-Raphaël Varane,France,4,DF, (1993-04-25),42,2,Real Madrid,Spain
-Samuel Umtiti,France,5,DF, (1993-11-14),19,2,Barcelona,Spain
-Paul Pogba,France,6,MF, (1993-03-15),54,9,Manchester United,England
-Antoine Griezmann,France,7,FW, (1991-03-21),54,20,Atlético Madrid,Spain
-Thomas Lemar,France,8,FW, (1995-11-12),12,3,Monaco,France
-Olivier Giroud,France,9,FW, (1986-09-30),74,31,Chelsea,England
-Kylian Mbappé,France,10,FW, (1998-12-20),15,4,Paris Saint-Germain,France
-Ousmane Dembélé,France,11,FW, (1997-05-15),12,2,Barcelona,Spain
-Corentin Tolisso,France,12,MF, (1994-08-03),9,0,Bayern Munich,Germany
-N'Golo Kanté,France,13,MF, (1991-03-29),24,1,Chelsea,England
-Blaise Matuidi,France,14,MF, (1987-04-09),67,9,Juventus,Italy
-Steven Nzonzi,France,15,MF, (1988-12-15),4,0,Sevilla,Spain
-Steve Mandanda,France,16,GK, (1985-03-28),27,0,Marseille,France
-Adil Rami,France,17,DF, (1985-12-27),35,1,Marseille,France
-Nabil Fekir,France,18,FW, (1993-07-18),12,2,Lyon,France
-Djibril Sidibé,France,19,DF, (1992-07-29),17,1,Monaco,France
-Florian Thauvin,France,20,FW, (1993-01-26),4,0,Marseille,France
-Lucas Hernandez,France,21,DF, (1996-02-14),5,0,Atlético Madrid,Spain
-Benjamin Mendy,France,22,DF, (1994-07-17),7,0,Manchester City,England
-Alphonse Areola,France,23,GK, (1993-02-27),0,0,Paris Saint-Germain,France
+Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin,World Cup start date
+Hugo Lloris (captain),France,1,GK, (1986-12-26),98,0,Tottenham Hotspur,England,2018-06-14
+Benjamin Pavard,France,2,DF, (1996-03-28),6,0,VfB Stuttgart,Germany,2018-06-14
+Presnel Kimpembe,France,3,DF, (1995-08-13),2,0,Paris Saint-Germain,France,2018-06-14
+Raphaël Varane,France,4,DF, (1993-04-25),42,2,Real Madrid,Spain,2018-06-14
+Samuel Umtiti,France,5,DF, (1993-11-14),19,2,Barcelona,Spain,2018-06-14
+Paul Pogba,France,6,MF, (1993-03-15),54,9,Manchester United,England,2018-06-14
+Antoine Griezmann,France,7,FW, (1991-03-21),54,20,Atlético Madrid,Spain,2018-06-14
+Thomas Lemar,France,8,FW, (1995-11-12),12,3,Monaco,France,2018-06-14
+Olivier Giroud,France,9,FW, (1986-09-30),74,31,Chelsea,England,2018-06-14
+Kylian Mbappé,France,10,FW, (1998-12-20),15,4,Paris Saint-Germain,France,2018-06-14
+Ousmane Dembélé,France,11,FW, (1997-05-15),12,2,Barcelona,Spain,2018-06-14
+Corentin Tolisso,France,12,MF, (1994-08-03),9,0,Bayern Munich,Germany,2018-06-14
+N'Golo Kanté,France,13,MF, (1991-03-29),24,1,Chelsea,England,2018-06-14
+Blaise Matuidi,France,14,MF, (1987-04-09),67,9,Juventus,Italy,2018-06-14
+Steven Nzonzi,France,15,MF, (1988-12-15),4,0,Sevilla,Spain,2018-06-14
+Steve Mandanda,France,16,GK, (1985-03-28),27,0,Marseille,France,2018-06-14
+Adil Rami,France,17,DF, (1985-12-27),35,1,Marseille,France,2018-06-14
+Nabil Fekir,France,18,FW, (1993-07-18),12,2,Lyon,France,2018-06-14
+Djibril Sidibé,France,19,DF, (1992-07-29),17,1,Monaco,France,2018-06-14
+Florian Thauvin,France,20,FW, (1993-01-26),4,0,Marseille,France,2018-06-14
+Lucas Hernandez,France,21,DF, (1996-02-14),5,0,Atlético Madrid,Spain,2018-06-14
+Benjamin Mendy,France,22,DF, (1994-07-17),7,0,Manchester City,England,2018-06-14
+Alphonse Areola,France,23,GK, (1993-02-27),0,0,Paris Saint-Germain,France,2018-06-14

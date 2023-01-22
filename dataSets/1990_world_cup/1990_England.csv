@@ -1,23 +1,24 @@
-Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin
-Peter Shilton,England,1,GK, (1949-09-18),118,,Derby County,England
-Gary Stevens,England,2,DF, (1963-03-27),39,,Rangers,Scotland
-Stuart Pearce,England,3,DF, (1962-04-24),24,,Nottingham Forest,England
-Neil Webb,England,4,MF, (1963-07-30),19,,Manchester United,England
-Des Walker,England,5,DF, (1965-11-26),18,,Nottingham Forest,England
-Terry Butcher,England,6,DF, (1958-12-28),72,,Rangers,Scotland
-Bryan Robson (c),England,7,MF, (1957-01-11),85,,Manchester United,England
-Chris Waddle,England,8,MF, (1960-12-14),52,,Marseille,France
-Peter Beardsley,England,9,FW, (1961-01-18),40,,Liverpool,England
-Gary Lineker,England,10,FW, (1960-11-30),51,,Tottenham Hotspur,England
-John Barnes,England,11,MF, (1963-11-07),53,,Liverpool,England
-Paul Parker,England,12,DF, (1964-04-04),5,,Queens Park Rangers,England
-Chris Woods,England,13,GK, (1959-11-14),16,,Rangers,Scotland
-Mark Wright,England,14,DF, (1963-08-01),24,,Derby County,England
-Tony Dorigo,England,15,DF, (1965-12-31),3,,Chelsea,England
-Steve McMahon,England,16,MF, (1961-08-20),12,,Liverpool,England
-David Platt,England,17,MF, (1966-06-10),5,,Aston Villa,England
-Steve Hodge,England,18,MF, (1962-10-25),22,,Nottingham Forest,England
-Paul Gascoigne,England,19,MF, (1967-05-27),11,,Tottenham Hotspur,England
-Trevor Steven,England,20,MF, (1963-09-21),26,,Rangers,Scotland
-Steve Bull,England,21,FW, (1965-03-28),7,,Wolverhampton Wanderers,England
-David Seaman*,England,22,GK, (1963-09-19),3,,Queens Park Rangers,England
+Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin,World Cup start date
+Peter Shilton,England,1,GK, (1949-09-18),118,,Derby County,England,1990-06-08
+Gary Stevens,England,2,DF, (1963-03-27),39,,Rangers,Scotland,1990-06-08
+Stuart Pearce,England,3,DF, (1962-04-24),24,,Nottingham Forest,England,1990-06-08
+Neil Webb,England,4,MF, (1963-07-30),19,,Manchester United,England,1990-06-08
+Des Walker,England,5,DF, (1965-11-26),18,,Nottingham Forest,England,1990-06-08
+Terry Butcher,England,6,DF, (1958-12-28),72,,Rangers,Scotland,1990-06-08
+Bryan Robson (c),England,7,MF, (1957-01-11),85,,Manchester United,England,1990-06-08
+Chris Waddle,England,8,MF, (1960-12-14),52,,Marseille,France,1990-06-08
+Peter Beardsley,England,9,FW, (1961-01-18),40,,Liverpool,England,1990-06-08
+Gary Lineker,England,10,FW, (1960-11-30),51,,Tottenham Hotspur,England,1990-06-08
+John Barnes,England,11,MF, (1963-11-07),53,,Liverpool,England,1990-06-08
+Paul Parker,England,12,DF, (1964-04-04),5,,Queens Park Rangers,England,1990-06-08
+Chris Woods,England,13,GK, (1959-11-14),16,,Rangers,Scotland,1990-06-08
+Mark Wright,England,14,DF, (1963-08-01),24,,Derby County,England,1990-06-08
+Tony Dorigo,England,15,DF, (1965-12-31),3,,Chelsea,England,1990-06-08
+Steve McMahon,England,16,MF, (1961-08-20),12,,Liverpool,England,1990-06-08
+David Platt,England,17,MF, (1966-06-10),5,,Aston Villa,England,1990-06-08
+Steve Hodge,England,18,MF, (1962-10-25),22,,Nottingham Forest,England,1990-06-08
+Paul Gascoigne,England,19,MF, (1967-05-27),11,,Tottenham Hotspur,England,1990-06-08
+Trevor Steven,England,20,MF, (1963-09-21),26,,Rangers,Scotland,1990-06-08
+Steve Bull,England,21,FW, (1965-03-28),7,,Wolverhampton Wanderers,England,1990-06-08
+David Seaman*,England,22,GK, (1963-09-19),3,,Queens Park Rangers,England,1990-06-08
+Dave Beasant,England,22,GK,20 March 1959 (aged 31),2,,Chelsea,England,1990-06-08

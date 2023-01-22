@@ -1,27 +1,27 @@
-Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin
-Alfredo Talavera,Mexico,1,GK, (1982-09-18),40,0,Juárez,Mexico
-Néstor Araujo,Mexico,2,DF, (1991-08-29),63,3,América,Mexico
-César Montes,Mexico,3,DF, (1997-02-24),30,1,Monterrey,Mexico
-Edson Álvarez,Mexico,4,DF, (1997-10-24),58,3,Ajax,Netherlands
-Johan Vásquez,Mexico,5,DF, (1998-10-22),7,0,Cremonese,Italy
-Gerardo Arteaga,Mexico,6,DF, (1998-09-07),17,1,Genk,Belgium
-Luis Romo,Mexico,7,MF, (1995-06-05),27,1,Monterrey,Mexico
-Carlos Rodríguez,Mexico,8,MF, (1997-01-03),36,0,Cruz Azul,Mexico
-Raúl Jiménez,Mexico,9,FW, (1991-05-05),95,29,Wolverhampton Wanderers,England
-Alexis Vega,Mexico,10,FW, (1997-11-25),22,6,Guadalajara,Mexico
-Rogelio Funes Mori,Mexico,11,FW, (1991-03-05),16,6,Monterrey,Mexico
-Rodolfo Cota,Mexico,12,GK, (1987-07-03),8,0,León,Mexico
-Guillermo Ochoa,Mexico,13,GK, (1985-07-13),131,0,América,Mexico
-Érick Gutiérrez,Mexico,14,MF, (1995-06-15),34,1,PSV Eindhoven,Netherlands
-Héctor Moreno,Mexico,15,DF, (1988-01-17),128,5,Monterrey,Mexico
-Héctor Herrera,Mexico,16,MF, (1990-04-19),102,10,Houston Dynamo FC,United States
-Orbelín Pineda,Mexico,17,FW, (1996-03-24),50,6,AEK Athens,Greece
-Andrés Guardado (captain),Mexico,18,MF, (1986-09-28),178,28,Real Betis,Spain
-Jorge Sánchez,Mexico,19,DF, (1997-12-10),26,1,Ajax,Netherlands
-Henry Martín,Mexico,20,FW, (1992-11-18),27,6,América,Mexico
-Uriel Antuna,Mexico,21,FW, (1997-08-21),36,9,Cruz Azul,Mexico
-Hirving Lozano,Mexico,22,FW, (1995-07-30),60,16,Napoli,Italy
-Jesús Gallardo,Mexico,23,DF, (1994-08-15),78,1,Monterrey,Mexico
-Luis Chávez,Mexico,24,MF, (1996-01-15),9,0,Pachuca,Mexico
-Roberto Alvarado,Mexico,25,FW, (1998-09-07),31,4,Guadalajara,Mexico
-Kevin Álvarez,Mexico,26,DF, (1999-01-15),8,0,Pachuca,Mexico
+Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin,World Cup start date
+Alfredo Talavera,Mexico,1,GK, (1982-09-18),40,0,Juárez,Mexico,2022-11-20
+Néstor Araujo,Mexico,2,DF, (1991-08-29),63,3,América,Mexico,2022-11-20
+César Montes,Mexico,3,DF, (1997-02-24),30,1,Monterrey,Mexico,2022-11-20
+Edson Álvarez,Mexico,4,DF, (1997-10-24),58,3,Ajax,Netherlands,2022-11-20
+Johan Vásquez,Mexico,5,DF, (1998-10-22),7,0,Cremonese,Italy,2022-11-20
+Gerardo Arteaga,Mexico,6,DF, (1998-09-07),17,1,Genk,Belgium,2022-11-20
+Luis Romo,Mexico,7,MF, (1995-06-05),27,1,Monterrey,Mexico,2022-11-20
+Carlos Rodríguez,Mexico,8,MF, (1997-01-03),36,0,Cruz Azul,Mexico,2022-11-20
+Raúl Jiménez,Mexico,9,FW, (1991-05-05),95,29,Wolverhampton Wanderers,England,2022-11-20
+Alexis Vega,Mexico,10,FW, (1997-11-25),22,6,Guadalajara,Mexico,2022-11-20
+Rogelio Funes Mori,Mexico,11,FW, (1991-03-05),16,6,Monterrey,Mexico,2022-11-20
+Rodolfo Cota,Mexico,12,GK, (1987-07-03),8,0,León,Mexico,2022-11-20
+Guillermo Ochoa,Mexico,13,GK, (1985-07-13),131,0,América,Mexico,2022-11-20
+Érick Gutiérrez,Mexico,14,MF, (1995-06-15),34,1,PSV Eindhoven,Netherlands,2022-11-20
+Héctor Moreno,Mexico,15,DF, (1988-01-17),128,5,Monterrey,Mexico,2022-11-20
+Héctor Herrera,Mexico,16,MF, (1990-04-19),102,10,Houston Dynamo FC,United States,2022-11-20
+Orbelín Pineda,Mexico,17,FW, (1996-03-24),50,6,AEK Athens,Greece,2022-11-20
+Andrés Guardado (captain),Mexico,18,MF, (1986-09-28),178,28,Real Betis,Spain,2022-11-20
+Jorge Sánchez,Mexico,19,DF, (1997-12-10),26,1,Ajax,Netherlands,2022-11-20
+Henry Martín,Mexico,20,FW, (1992-11-18),27,6,América,Mexico,2022-11-20
+Uriel Antuna,Mexico,21,FW, (1997-08-21),36,9,Cruz Azul,Mexico,2022-11-20
+Hirving Lozano,Mexico,22,FW, (1995-07-30),60,16,Napoli,Italy,2022-11-20
+Jesús Gallardo,Mexico,23,DF, (1994-08-15),78,1,Monterrey,Mexico,2022-11-20
+Luis Chávez,Mexico,24,MF, (1996-01-15),9,0,Pachuca,Mexico,2022-11-20
+Roberto Alvarado,Mexico,25,FW, (1998-09-07),31,4,Guadalajara,Mexico,2022-11-20
+Kevin Álvarez,Mexico,26,DF, (1999-01-15),8,0,Pachuca,Mexico,2022-11-20

@@ -1,21 +1,21 @@
-Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin
-Eduardo Astengo,Peru,,MF, (1905-08-15),3,,Universitario de Deportes,Peru
-Carlos Cillóniz,Peru,,MF, (1910-07-01),0,,Universitario de Deportes,Peru
-Mario de las Casas,Peru,,DF, (1901-01-31),0,,Lawn Tennis de la Exposición,Peru
-Alberto Denegri,Peru,,MF, (1906-08-07),3,,Universitario de Deportes,Peru
-Arturo Fernández,Peru,,DF, (1910-04-10),0,,Universitario de Deportes,Peru
-Plácido Galindo (c),Peru,,MF, (1906-03-09),1,,Universitario de Deportes,Peru
-Domingo García,Peru,,MF, (1904-11-30),0,,Alianza Lima,Peru
-José María Lavalle,Peru,,FW, (1911-06-05),3,,Alianza Lima,Peru
-Julio Lores,Peru,,FW, (1908-09-15),0,,Necaxa,Mexico
-Antonio Maquilón,Peru,,DF, (1902-11-29),5,,Tarapacá Ferroviario,Peru
-Demetrio Neyra,Peru,,FW, (1908-12-15),2,,Alianza Lima,Peru
-Pablo Pacheco,Peru,,FW, (1908-06-22),0,,Universitario de Deportes,Peru
-Jorge Pardon,Peru,,GK, (1909-12-19),6,,Sporting Tabaco,Peru
-Julio Quintana,Peru,,MF, (1904-07-13),0,,Alianza Lima,Peru
-Lizardo Rodríguez Nue,Peru,,FW, (1910-08-30),0,,Sport Progreso,Peru
-Jorge Sarmiento,Peru,,FW, (1900-11-02),2,,Alianza Lima,Peru
-Alberto Soria,Peru,,DF, (1906-03-10),0,,Alianza Lima,Peru
-Luis de Souza,Peru,,FW, (1904-06-30),0,,Universitario de Deportes,Peru
-Juan Valdivieso,Peru,,GK, (1910-05-06),0,,Alianza Lima,Peru
-Alejandro Villanueva,Peru,,FW, (1908-06-04),2,,Alianza Lima,Peru
+Player,National Team,No.,Pos.,Date of birth (age),Caps,Goals,Club,Club Origin,World Cup start date
+Eduardo Astengo,Peru,,MF, (1905-08-15),3,,Universitario de Deportes,Peru,1930-07-17
+Carlos Cillóniz,Peru,,MF, (1910-07-01),0,,Universitario de Deportes,Peru,1930-07-17
+Mario de las Casas,Peru,,DF, (1901-01-31),0,,Lawn Tennis de la Exposición,Peru,1930-07-17
+Alberto Denegri,Peru,,MF, (1906-08-07),3,,Universitario de Deportes,Peru,1930-07-17
+Arturo Fernández,Peru,,DF, (1910-04-10),0,,Universitario de Deportes,Peru,1930-07-17
+Plácido Galindo (c),Peru,,MF, (1906-03-09),1,,Universitario de Deportes,Peru,1930-07-17
+Domingo García,Peru,,MF, (1904-11-30),0,,Alianza Lima,Peru,1930-07-17
+José María Lavalle,Peru,,FW, (1911-06-05),3,,Alianza Lima,Peru,1930-07-17
+Julio Lores,Peru,,FW, (1908-09-15),0,,Necaxa,Mexico,1930-07-17
+Antonio Maquilón,Peru,,DF, (1902-11-29),5,,Tarapacá Ferroviario,Peru,1930-07-17
+Demetrio Neyra,Peru,,FW, (1908-12-15),2,,Alianza Lima,Peru,1930-07-17
+Pablo Pacheco,Peru,,FW, (1908-06-22),0,,Universitario de Deportes,Peru,1930-07-17
+Jorge Pardon,Peru,,GK, (1909-12-19),6,,Sporting Tabaco,Peru,1930-07-17
+Julio Quintana,Peru,,MF, (1904-07-13),0,,Alianza Lima,Peru,1930-07-17
+Lizardo Rodríguez Nue,Peru,,FW, (1910-08-30),0,,Sport Progreso,Peru,1930-07-17
+Jorge Sarmiento,Peru,,FW, (1900-11-02),2,,Alianza Lima,Peru,1930-07-17
+Alberto Soria,Peru,,DF, (1906-03-10),0,,Alianza Lima,Peru,1930-07-17
+Luis de Souza,Peru,,FW, (1904-06-30),0,,Universitario de Deportes,Peru,1930-07-17
+Juan Valdivieso,Peru,,GK, (1910-05-06),0,,Alianza Lima,Peru,1930-07-17
+Alejandro Villanueva,Peru,,FW, (1908-06-04),2,,Alianza Lima,Peru,1930-07-17
